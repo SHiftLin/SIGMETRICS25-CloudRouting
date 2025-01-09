@@ -1,5 +1,3 @@
-Random Logo here
-
 # Tiered Cloud Routing: Methodology, Latency, and Improvement
 
 ## :bookmark: Introduction

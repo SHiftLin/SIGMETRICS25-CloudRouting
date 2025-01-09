@@ -1,0 +1,5206 @@
+prb_id,asn_v4,city
+10007,7922,Napa County
+10016,33915,Amstelveen
+10022,206238,Roermond
+10048,60377,Southampton
+10052,13246,Oberbayern
+10059,12389,Ivanovsky District
+10068,34594,Grad Zadar
+10076,57670,Dnipropetrovs'ka oblast
+10087,196890,Kielce
+10099,7018,Fulton County
+10100,15669,Sofia City Province
+10113,5379,Centar
+10134,13037,Greater London
+10141,3303,Bern-Mittelland District
+10146,7922,Norfolk County
+10152,8661,Kukës District
+10176,21246,Fushë Arrës
+10179,12552,Stockholm County
+10194,7922,DuPage County
+10203,36924,Lome Commune
+10214,60294,Saarland
+10231,1136,Eindhoven
+1006167,35807,Sankt-Peterburg
+10237,35699,Barcelona
+10243,37084,Kinondoni
+10251,12611,Oberpfalz
+10273,1136,Alphen aan Den Rijn
+10274,52207,Gorod Tula
+10281,3209,Middle Franconia
+10286,7922,Greene County
+10293,8489,Darmstadt
+50885,10242,Hennepin County
+10305,30640,Santa Clara County
+10312,11426,Guilford County
+10322,7922,Plymouth County
+10334,397377,Boulder County
+10338,12083,Wayne County
+10342,20055,Latah County
+10350,7922,Hanover County
+10355,7922,Delaware County
+10356,7922,Cape May County
+10357,701,Kent County
+10377,11351,Madison County
+10378,701,Loudoun County
+10390,20115,Clinton County
+10402,701,Worcester County
+10403,5739,Santa Cruz County
+10423,397005,Fluvanna County
+10441,852,Strathcona County
+10443,13977,Chittenden County
+10444,33361,Toronto
+10445,4922,Shenandoah County
+10456,22773,Maricopa County
+10458,5650,Lackawanna County
+10478,11427,Dallas County
+10491,7922,Philadelphia County
+10498,31775,Erie County
+10501,1273,Greater London
+10502,1273,Darmstadt
+10506,1273,District of Columbia
+10507,1273,Sedgwick County
+10515,7922,Palm Beach County
+10517,12083,Oakland County
+10543,209,Lake County
+10545,7922,Will County
+10553,7922,Fairfield County
+10554,7922,Kent County
+10562,701,Gloucester County
+10576,7922,Prince William County
+10584,7922,Berks County
+10611,50266,Hilversum
+10615,6830,Government of Amsterdam
+10620,5378,Edinburgh
+10626,7922,El Paso County
+10633,215733,County Carlow
+10638,1741,Kajaani
+10644,1741,Lappeenranta
+10646,51319,Helsinki
+10647,57728,Liberec
+10654,8881,Arnsberg
+10658,17705,Wellington
+10661,22047,Santiago
+10664,8339,Waidhofen an der Thaya
+10688,1741,Pohjois-Lappi
+10693,7922,Rutland County
+10694,701,Fairfax County
+10704,7018,Brevard County
+10718,49800,Syunik Province
+10725,207044,County Limerick
+10734,29124,Krasnogorsky District
+10735,8676,East Sussex
+10760,47490,County Westmeath
+10770,13030,Uster
+10782,1136,Westervoort
+10790,7018,El Paso County
+10795,1136,Gooise Meren
+10797,200271,Seine-Saint-Denis
+10806,2611,Antwerp
+10813,15502,County Cork
+10814,237,Washtenaw County
+10816,12322,Yvelines
+10836,13287,Valencia
+10885,6805,Niederbayern
+10890,33915,Amsterdam
+10895,15744,Gliwice
+10905,209,Pima County
+10920,3320,Schwaben
+10924,197075,Provincia di Viterbo
+10928,13030,Bülach
+10933,4764,Baw Baw Shire
+10940,13285,Leicester
+10951,1136,Bodegraven-Reeuwijk
+10969,7018,Caldwell County
+10972,47702,Dobrovelychkivs'kyi district
+10977,10075,Dhaka District
+10982,5769,Montérégie
+10984,1103,Diemen
+10986,1103,Amsterdam
+10997,206238,Nieuwegein
+11012,50929,Viciebski rajon
+11013,50448,Moscow
+11018,557,Penobscot County
+11036,2856,Suffolk
+11063,38984,Moskva
+11079,8402,Lyuberetsky District
+11081,15774,Gorod Ryazan'
+11116,15493,Gorod Tyumen'
+11118,6661,Capellen
+11124,3352,Santa Cruz de Tenerife
+11125,12991,Linz
+11135,15763,Arnsberg
+11145,13037,West Yorkshire
+11149,31349,Liberec
+11151,12990,Kraków
+11153,22684,Ottawa
+11168,6871,Greater Manchester
+11171,7018,Monmouth County
+11172,4771,Waikato
+11179,5089,Greater London
+11185,680,Sachsen
+11202,44776,Bülach District
+11209,32881,Ottawa
+11210,3209,Brandenburg
+11215,10745,Loudoun County
+11218,7514,Kanagawa
+11226,6720,Wien
+11240,42685,Wien
+11244,1113,Graz
+11254,1853,Graz
+11255,31662,Bezirk Surselva
+11256,51090,Yerevan
+18363,5466,County Dublin
+11268,12322,Indre-et-Loire
+11272,9031,Oost-Vlaanderen
+11280,201838,Greater London
+53267,6805,Köln
+11292,17676,Tokyo
+11297,7514,Hiroshima
+11320,31133,City of Sochi
+11337,43966,Gatchinsky District
+11361,48670,Sankt-Peterburg
+11367,5432,Vlaams-Brabant
+16565,43205,Sofia City Province
+11400,8758,Sankt Gallen
+11433,13036,Hlavní město Praha
+11434,9031,Vlaams-Brabant
+11447,210302,Harju maakond
+11448,28917,Moskva
+11461,60382,Surrey
+11472,3301,Uppsala län
+11473,41302,Gorod Velikiye Luki
+11491,33835,Seine-Maritime
+11497,42707,Helmond
+11499,6848,West-Vlaanderen
+11500,7922,Cumberland County
+11506,1403,Montréal
+11513,7018,Washtenaw County
+11518,60590,Yambol
+11633,6848,Vlaams-Brabant
+11529,30600,Greene County
+11918,7922,Contra Costa County
+11539,9367,Tokyo
+11558,31169,Luster
+11560,39216,Sulaymaniyah
+11563,199588,County Dublin
+1006218,6848,Oost-Vlaanderen
+11583,57084,Skåne län
+11586,50718,Südoststeiermark
+11595,34743,Kyiv City
+11600,30892,Barcelona
+11608,206238,Almere
+11616,36692,Darmstadt
+11621,58308,Val-de-Marne
+11632,12322,Loire-Atlantique
+11663,9031,Antwerpen
+11688,60409,Provincia di Terni
+11698,1103,Utrecht
+11708,198068,Ida-Viru maakond
+11713,206238,Nijmegen
+11717,35833,Berlin
+11722,3215,Isère
+11743,212865,Baden
+13533,61400,Moskva
+13538,1136,Deventer
+13561,7018,Santa Clara County
+13585,36692,Santa Clara County
+13593,2108,Grad Varaždin
+16971,12322,Seine-Saint-Denis
+13615,5432,Oost-Vlaanderen
+13642,9790,Auckland
+13649,206238,Hillegom
+13656,12392,Liège
+13659,43989,Provincia di Ferrara
+13667,7922,Monroe County
+13671,7922,Lane County
+13691,9534,Federal Territory of Kuala Lumpur
+13717,7018,Coweta County
+52108,13490,Lucas County
+52114,209864,Orange County
+13725,37100,Cidade de Maputo
+25606,16097,Sachsen-Anhalt
+25714,8447,Weiz
+25717,21309,Metropolitan City of Bologna
+25723,6730,Laufenburg
+25757,29086,Brno-město
+25785,50825,Praha-východ
+25838,1680,Rehovot
+25860,4,Los Angeles County
+25953,7753,Hennepin County
+25965,3212,Upravna enota Maribor
+25967,5603,Murska Sobota
+25981,30722,Provincia di Novara
+25983,12119,Champaign County
+26028,33915,Alblasserdam
+26036,209,Washington County
+26056,6327,Whatcom County
+26065,202616,Wien
+26083,50266,Lansingerland
+26092,1759,Helsinki
+26113,47697,Sofia City Province
+1000011,4,Arlington County
+13741,9930,Selangor
+13745,6848,Flemish Brabant
+13759,12322,Meurthe-et-Moselle
+22450,13092,Grad Beograd
+13808,12576,Nottinghamshire
+13816,8816,Città Metropolitana di Milano
+13819,2497,Fukuoka
+13821,63771,Kanagawa
+13822,2514,Ishikawa
+13826,7922,Santa Cruz County
+13833,46562,Fulton County
+13870,15630,Madrid
+13892,6848,Bruxelles
+13896,766,Valencia
+13911,206610,Lëtzebuerg
+13934,20769,Ouder-Amstel
+13946,812,Regional Municipality of York
+13975,201533,Beroun
+14038,20766,Val-de-Marne
+14039,3215,Yvelines
+14051,2856,South Lanarkshire
+14053,5650,Pinellas County
+14064,10796,Warren County
+14065,28573,Governador Valadares
+14080,7522,Ehime
+26232,33915,Den Haag
+14134,30722,Provincia di Ancona
+14136,16347,Calvados
+14154,29518,Stockholms län
+14164,7922,Spokane County
+14199,2514,Kanagawa
+14207,13285,Scotland
+14213,39326,Cheshire West and Chester
+14267,8468,Berkshire
+14274,13037,Berkshire
+14277,701,Kings County
+52141,2856,England
+14310,6407,Ottawa
+14311,12322,Vendée
+14322,577,Prince Edward County
+14351,20712,Surrey
+14352,2527,Tokyo
+14377,8220,Berlin
+14385,5769,Montréal
+14387,44417,Tomsk
+14390,131937,Niigata
+14391,6871,Devon
+14468,5089,Greater Manchester
+14473,9790,Otago
+14521,43341,Sachsen-Anhalt
+14531,5089,Buckinghamshire
+14546,46293,Allegan County
+14548,786,Oxfordshire
+14595,15943,Hamburg
+14598,20676,Giessen
+14606,20001,Maui County
+14616,206238,Eindhoven
+14627,20712,Cornwall
+14629,11478,Montréal
+14651,28792,Greater London
+14676,206238,Gooise Meren
+54474,5432,Bruxelles
+14680,28884,Barnaul
+14691,37611,City of Tshwane Metropolitan Municipality
+14698,4764,Huon Valley Council
+14699,20626,Gävleborgs län
+14716,5089,Kent
+14720,6360,Honolulu County
+53580,5410,Côte-d'Or
+14740,12322,Seine-et-Marne
+14761,2856,Cambridgeshire
+14765,50266,Enschede
+14768,1267,Città metropolitana di Roma Capitale
+14769,12874,Città metropolitana di Roma Capitale
+14778,4764,Macedon Ranges Shire
+14779,19171,Metro Vancouver
+14782,12430,Madrid
+14783,577,Chatham-Kent
+14785,13280,County Dublin
+14798,36194,Santa Clara County
+14829,12346,Lublin
+14832,59125,Kanagawa
+14843,2514,Chiba
+14875,29007,Płock
+14895,24637,Münster
+14909,12324,Lublin
+14934,210874,West Sussex
+17825,42908,Beroun
+15038,22773,Douglas County
+15044,50266,Vijfheerenlanden
+15051,60713,Toruń
+15053,11814,Waterloo Regional Municipality
+15061,30600,McLean County
+15072,5645,Metro Vancouver
+15086,20115,Ottawa County
+15094,13037,County Durham
+15098,51569,Provincia di Varese
+15102,4764,City of Campbelltown
+15104,52177,Stockholms län
+15106,5645,Chatham-Kent
+15133,7922,Washington County
+15138,29695,Bergen
+15145,209,Clackamas County
+15159,12874,Provincia di Potenza
+15234,196750,Sankt-Peterburg
+15238,327831,Djiboutii
+15253,52314,Junín
+15257,61044,Oss
+16323,51873,Luzern-Stadt District
+15324,6848,West Flanders
+15364,1136,Heerenveen
+15387,701,New York County
+15407,12620,Locarno
+15444,16086,Turku
+15464,35485,Provincia di Cremona
+15594,48139,Schleswig-Holstein
+15618,3352,Alicante
+15632,3352,Barcelona
+15634,12290,Greater London
+15683,16591,Jackson County
+62519,3215,Seine-Maritime
+15701,17676,Aichi
+15718,701,Onondaga County
+15753,1136,Westerveld
+15760,11351,Penobscot County
+15772,47215,Darmstadt
+15789,21021,Powiat Toruń
+15792,12741,Powiat toruński
+15793,206238,Pijnacker-Nootdorp
+15801,3215,Essonne
+15809,8422,Cologne
+6941,199938,Hamburg
+15817,2611,Bruxelles
+15831,206924,Greater London
+15838,1273,England
+15849,20764,Chudovsky District
+15861,43708,Brno-venkov
+15873,200434,Barcelona
+15877,27699,São Paulo
+15887,52,Los Angeles County
+15943,20764,Sankt-Peterburg
+15958,20001,Los Angeles County
+15961,15088,Auglaize County
+15968,20764,Klinsky District
+15979,11492,Ada County
+15988,39542,Loire-Atlantique
+15992,6057,Miami-Dade County
+16012,5607,Suffolk
+16031,2856,Nottinghamshire
+16033,5378,East Ayrshire Council
+16087,13189,Uppsala län
+16124,48154,Sachsen-Anhalt
+16137,6730,Horgen District
+16146,12322,Essonne
+16154,2856,Gloucestershire
+16155,53859,San Mateo County
+16163,23473,Vermilion County
+1004017,29580,Sofia City Province
+16274,207176,Pijnacker-Nootdorp
+16284,51088,Hollands Kroon
+16298,12414,Kampen
+16302,5617,Powiat lubelski
+16336,5603,Ljubljana
+16354,8717,Sofia City Province
+16377,8866,Sofiyska oblast
+16380,25513,Khimki
+16441,327750,Gert Sibande District Municipality
+16601,15958,Grad Beograd
+16603,13194,Vilniaus apskritis
+16605,60304,Tirana
+16607,1270,Arnsberg
+16657,197083,Ostrava-město
+1004776,44489,České Budějovice
+16715,5610,Hlavní město Praha
+16722,38952,Hlavní město Praha
+16723,59990,Ruda Śląska
+16732,2852,Ostrava-město
+16741,6830,Warszawa
+16757,42970,Isère
+16758,15614,Mladá Boleslav
+16776,701,Suffolk County
+16778,7594,Townsville City
+16790,209,San Juan County
+16808,39544,Morges District
+16834,5410,Val-de-Marne
+16862,19108,Humboldt County
+16882,29396,Zwolle
+16883,56410,County Dublin
+16898,11776,Huntingdon County
+16900,22773,Fairfax County
+16917,3215,Vienne
+16928,20712,Hertfordshire
+16930,15502,County Dublin
+50620,20001,Orange County
+16955,15435,Gouda
+16957,5432,Flemish Brabant
+16962,5410,Marne
+16970,48161,Comuna Corbeanca
+16980,1136,Tynaarlo
+17003,7575,City of South Perth
+17008,28573,São Paulo
+17031,20565,Doubs
+17036,15557,Seine-Saint-Denis
+17054,15557,Hauts-de-Seine
+17055,3215,Bouches-du-Rhône
+17064,12322,Gironde
+17065,12322,Vaucluse
+17098,35540,Alpes-Maritimes
+17113,12322,Drôme
+17127,15557,Bouches-du-Rhône
+17132,15557,Moselle
+17145,3215,Loire-Atlantique
+17149,12322,Deux-Sèvres
+17174,12322,Savoie
+17190,23872,Gurgaon Division
+17228,12322,Aisne
+17244,2200,Seine-Maritime
+17280,60879,Krasnoyarsk
+17297,33915,Utrechtse Heuvelrug
+17300,5410,Alpes-Maritimes
+17304,577,Estrie
+17330,15557,Département de Paris
+17394,5432,Brabant Wallon
+17403,701,Essex County
+17490,13977,Hillsborough County
+17540,20880,Berlin
+17590,24560,Bangalore Division
+17596,20115,Washtenaw County
+17620,397727,Halifax Regional Municipality
+17658,50045,Moskva
+17681,43097,Krasnoyarsk
+17689,8402,Gorod Korolev
+17703,199860,Санкт-Петербург
+17704,56534,Sankt-Peterburg
+17705,9113,Gorod Chernogolovka
+17715,1136,Haarlemmermeer
+17736,6908,New York County
+17758,137,Provincia di Pisa
+17780,41562,Lausanne
+17783,197298,Gorod Yaroslavl'
+17797,7018,San Francisco County
+17826,6057,CH
+17830,6327,Nanaimo
+17845,852,Rocky View
+17863,29321,Hlavní město Praha
+17882,378,Jerusalem District
+17908,6327,Metro Vancouver
+17914,5650,Tarrant County
+17919,202032,Mendrisio
+17924,3215,Ardèche
+17931,35592,Hlavní město Praha
+17941,34911,Písek
+17948,33915,Hollands Kroon
+17950,33915,Apeldoorn
+17951,35540,Seine-Saint-Denis
+17958,5607,Falkirk
+17961,35046,Chrudim
+17962,5617,Powiat Poznań
+17968,201727,Rakovník
+17979,13037,Scottish Borders
+17990,5089,Derby
+17997,33915,Eindhoven
+18019,262178,Santiago
+18054,786,York
+18062,209,Multnomah County
+18109,34245,County Dublin
+18113,49941,Braga
+18138,41897,Severnobački okrug
+18152,3661,New Territories
+18157,10076,Sukhbaatar District
+18169,37520,Sarah Baartman District Municipality
+18192,4616,Kowloon
+18210,34872,Liège
+18302,39591,Gilze en Rijen
+18310,199484,Fatih
+18348,15594,Düsseldorf
+18369,10094,Kianggeh
+18414,393552,Boulder County
+18425,7922,Champaign County
+18430,51263,Essex
+18438,5650,Collin County
+18477,4764,City of Frankston
+18511,16591,Salt Lake County
+18534,39007,Klaipėdos apskritis
+18550,7377,Pinellas County
+18566,8251,Mladá Boleslav
+18578,30298,Washington County
+18579,48971,Zug
+18651,3262,Madrid
+18655,786,Brighton and Hove
+18665,786,Merseyside
+18673,197975,Hamburg
+18675,33824,Oberbayern
+50714,8251,Plzeň-město
+18691,5547,Gorod Irkutsk
+18696,56427,Žďár nad Sázavou
+18720,61349,Alblasserdam
+18733,38229,Matara
+18750,398721,Estrie
+18755,51806,Ille-et-Vilaine
+18773,43708,Brno-město
+18798,8315,Haarlemmermeer
+18816,20712,Caerphilly County Borough
+18817,25431,City of Belgrade
+18822,201860,Limassol
+18848,2552,Missouri
+18857,15038,Suffolk County
+18864,35432,Nicosia
+18878,35328,Námestovo District
+18939,48661,Hlavní město Praha
+18943,50195,Upravna enota Maribor
+18944,2107,Upravna enota Maribor
+18948,9125,Grad Beograd
+18996,2856,Oxfordshire
+19008,44964,Moskva
+19023,701,Albany County
+19033,30600,Miami County
+19048,32437,eThekwini Metropolitan Municipality
+19053,20001,Hawaii County
+19071,12400,Ashkelon
+19082,5650,San Mateo County
+19093,31370,Moskva
+19096,54613,Los Angeles County
+19100,12576,Greater Manchester
+19107,4713,Miyazaki
+19121,41026,Gliwice
+19146,12714,Gorod Pskov
+26116,12426,Komárno
+26124,56665,Luxembourg
+26169,48511,Gorod Bryansk
+26178,13036,Svitavy
+26179,35661,Nord
+26183,4739,Adelaide City Council
+26201,13319,Leeds and Grenville United Counties
+26291,49420,Warszawa
+26320,6805,Detmold
+26353,31317,Oberbayern
+26355,204053,Mittelfranken
+11760,6057,C
+11765,701,Allegheny County
+11768,3215,Finistère
+11790,12322,Tarn-et-Garonne
+11795,11426,Wake County
+11802,786,Swansea
+11803,199181,Provincia di Salerno
+11807,60377,Dorset
+11809,16086,Helsingfors
+11815,3209,Hamburg
+11828,12322,Ardennes
+11842,7018,San Mateo County
+11873,3215,Charente-Maritime
+11874,15836,Chișinău
+52653,40788,Middlesex County
+11877,57329,Città metropolitana di Roma Capitale
+11880,44084,Provincia di Cuneo
+11903,34087,Steinkjer
+11917,33915,Maastricht
+11948,57269,Madrid
+11950,12322,Hérault
+11983,207645,Buckinghamshire
+11990,58243,Berlin
+11992,12389,Gorod Krasnodar
+11999,51809,Greater Manchester
+12012,7922,Burlington County
+12014,15557,Isère
+12015,41090,Rhône
+12018,41090,Drôme
+12053,201773,West Midlands
+12060,7922,Kane County
+12061,57370,Genève
+24846,6730,Gros-de-Vaud District
+12076,2611,West-Vlaanderen
+12082,41090,Loire
+12087,50266,Utrecht
+12093,16796,Winnipeg
+12108,7018,Dallas County
+12120,137,Provincia di Ferrara
+12121,19108,Nevada County
+12124,577,Regional Municipality of Durham
+12137,29124,Kotel'niki
+12142,3215,Gironde
+12144,7922,Bartow County
+12151,9031,West-Vlaanderen
+12153,12479,Madrid
+12159,4474,Park County
+12160,6057,B
+12161,2707,Medina County
+12162,2860,Loures
+12165,2119,Bamble
+12173,13030,Glarus
+12174,25460,Greater Manchester
+12180,7922,Davidson County
+12199,55391,Chiba
+12203,41095,Hong Kong Island
+12205,3741,City of Johannesburg Metropolitan Municipality
+12214,41095,New Territories
+12219,62416,Lisboa
+12226,7018,Santa Cruz County
+12234,6871,Scottish Borders
+12280,8612,Città metropolitana di Roma Capitale
+12291,49866,Helsinki
+12303,5650,Montgomery County
+12308,198060,Deux-Sèvres
+12315,33363,Hernando County
+12319,201290,Ermelo
+12320,7018,Alachua County
+12321,5432,Limburg
+12334,11351,York County
+30294,13037,England
+12363,7545,North Sydney Council
+12364,12479,Barcelona
+12375,201454,Sandnes
+12378,20712,Oxfordshire
+12383,395611,Winnipeg
+12392,3215,Seine-et-Marne
+12402,40098,Washington County
+12410,4764,City of Banyule
+12418,4764,Sunshine Coast Regional
+12430,15796,Höfe
+12438,3215,Saône-et-Loire
+12441,9464,Hat Yai District
+12443,7018,Chatham County
+12444,786,England
+12451,205617,Apeldoorn
+12456,29695,Vestfold og Telemark
+12461,199283,Greater London
+12465,3741,City of Cape Town Metropolitan Municipality
+12475,7029,Washington County
+12504,7922,Arapahoe County
+12506,16668,Loudoun County
+12538,7922,Barnstable County
+12563,6128,Sussex County
+12566,812,Toronto
+12576,35362,Borodyans'kyi district
+12578,217,Hennepin County
+12581,7922,Chittenden County
+12583,201701,Detmold
+12588,7922,Boulder County
+12602,48217,Kyiv City
+12626,49588,Donets'ka oblast
+12648,44750,Kharkivs'ka oblast
+12652,20055,King County
+12660,48756,Kyiv City
+12681,209,King County
+12686,7922,Dutchess County
+12692,10796,Licking County
+12710,46375,Santa Cruz County
+12721,7922,Clackamas County
+12739,395685,Tompkins County
+12756,11404,San Mateo County
+12760,12322,Haute-Savoie
+12768,5650,Dallas County
+24645,33915,Sittard-Geleen
+12782,4713,Tokyo
+12802,701,Prince William County
+12808,10881,Curitiba
+12809,13319,Ottawa
+12821,3215,Moselle
+12823,206420,Prague-West District
+12830,204334,Hallands län
+12832,25229,Kyiv City
+12839,50392,Rivnens'ka oblast
+12855,59414,Brugg
+12857,8587,Government of Amsterdam
+12873,3216,Samara
+12874,42189,Hlavní město Praha
+12876,2116,Lillestrøm
+12878,202945,Mayenne
+12884,57269,Valladolid
+31947,6730,Zürich
+12895,577,Montréal
+12902,16086,Åbo
+12904,1887,Warszawa
+12920,267,Washtenaw County
+12935,6805,Darmstadt
+12956,37457,City of Tshwane Metropolitan Municipality
+12967,4788,Selangor
+12968,37611,City of Cape Town Metropolitan Municipality
+53367,34779,Ljubljana
+12984,7018,Marin County
+12985,7545,Australian Capital Territory
+13002,8881,Münster
+13008,2602,Kanton Iechternach
+13015,4788,Federal Territory of Kuala Lumpur
+13022,4788,Melaka
+13034,35584,Municipiul București
+13056,7922,San Francisco County
+13062,8468,Bridgend County Borough
+13077,8468,Wales
+13086,8881,Mittelfranken
+13104,9790,Canterbury
+13146,36692,Hudson County
+13159,7922,Strafford County
+13210,35600,Val-de-Marne
+13227,2514,Fuwa District
+13229,17676,Hiroshima
+13230,12322,Aube
+13267,15987,Düsseldorf
+13271,49604,Harju maakond
+13283,3356,Collin County
+13288,11776,Grafton County
+13291,12302,Municipiul București
+13307,199636,Nord
+13308,15480,Sittard-Geleen
+13311,701,Harford County
+13315,33823,Municipiul București
+13318,7922,Baltimore County
+13321,48478,Moskva
+13330,397168,Ottawa
+13358,206238,Leiden
+13387,51896,Reykjavíkurborg
+13397,22773,East Baton Rouge Parish
+13410,13188,Kharkivs'ka oblast
+13411,30889,Seine-Saint-Denis
+13414,13037,Southampton
+13420,5607,England
+13430,198726,Düsseldorf
+13432,1136,Haarlem
+13434,20712,Herefordshire
+13435,13037,Northamptonshire
+13441,13285,Suffolk
+13444,13030,Bremgarten District
+13467,12322,Maine-et-Loire
+54554,16347,Département de Paris
+13476,206238,Zoeterwoude
+13477,680,Niedersachsen
+13490,48926,Hlavní město Praha
+13492,21040,Sankt Gallen
+13496,1136,Heumen
+13497,3215,Val-de-Marne
+13499,6181,Hamilton County
+13521,36692,Haarlemmermeer
+6025,8839,Bas-Rhin
+6042,1120,Wien
+6043,513,Geneva
+6053,10474,City of Johannesburg Metropolitan Municipality
+6054,28000,C
+6072,7922,Chester County
+6082,198260,Amsterdam
+6087,43996,Berkshire
+6088,43996,Amsterdam
+6092,14907,Loudoun County
+6094,16004,Città Metropolitana di Milano
+6101,53824,Maricopa County
+6120,42473,Klagenfurt am Wörthersee
+6167,263779,San José
+6213,12676,Düsseldorf
+6224,327844,Ilala
+6232,42961,Al Asimah Governate
+6235,24796,Città metropolitana di Roma Capitale
+6239,12731,Hamburg
+26380,14593,Finistère
+26383,5410,Sarthe
+26385,197029,Praha-západ
+26444,15435,Heumen
+26458,197078,Gorod Yaroslavl'
+26463,7922,Douglas County
+26465,8339,Mödling
+26514,1136,Wijchen
+26580,51892,Moskva
+26581,206238,Berkelland
+26587,1136,Leiden
+26597,8468,Greater London
+26600,57112,Noordoostpolder
+26619,57269,Barcelona
+26634,50163,Kladno
+26656,29226,Moscow
+26726,203568,Somerset
+21292,3215,Ain
+26738,1741,Oulu
+26754,3215,Nord
+26756,15557,Alpes-Maritimes
+26797,3303,Thun District
+26799,15600,Emmental District
+26806,1680,Petach Tikva
+26823,4685,Okayama
+26834,18822,Marga Marga
+26849,1136,Dronten
+26904,2119,Rauma
+26943,12392,Hainaut
+26996,28685,Midden-Delfland
+27020,6079,Middlesex County
+27091,61102,Petach Tikva
+27102,2860,Aveiro
+27116,8758,Schaffhausen District
+27119,1680,Center District
+27130,4685,Tokyo
+27131,17518,Nagano
+27214,7018,Harris County
+27245,7018,Stanislaus County
+27256,13036,Brno-město
+27265,203201,Provincia di Pavia
+61400,60522,Düsseldorf
+27381,6855,Bratislava II
+27391,24608,Provincia di Ancona
+27478,51509,Upravna enota Maribor
+27538,61468,Distrito Metropolitano de Quito
+27667,10796,Outagamie County
+27722,2200,Aube
+27724,23719,City of Sydney
+27746,6677,Kópavogsbær
+27774,208789,Département de Paris
+27793,3209,Bremen
+27797,1221,New South Wales
+27804,204232,Sofia City Province
+27857,3303,Horgen
+27867,3269,Provincia di Rovigo
+52118,22773,Benton County
+1006395,1221,Eurobodalla Shire Council
+1006399,43581,Moskva
+1006400,5391,Općina Strahoninec
+61501,21928,Middlesex County
+1006410,20473,Département de Paris
+1006411,33566,Knox County
+1006426,38466,Selangor
+1006427,5410,Indre-et-Loire
+6245,21412,Vilniaus apskritis
+6246,25291,Berlin
+6248,6667,Helsinki
+6250,8560,Karlsruhe
+6254,3257,Amsterdam
+6264,15133,King County
+6266,15133,Miami-Dade County
+6267,49784,Veendam
+6268,34288,Zürich
+6272,206549,Upper Bavaria
+6287,33362,Kittson County
+6289,15133,Loudoun County
+6295,42409,Tiranë
+6298,15133,São Paulo
+6307,3333,Amsterdam
+6313,203329,Darmstadt
+6316,12779,Città Metropolitana di Torino
+6317,559,Zürich
+6320,198985,Gironde
+6323,206186,Katowice
+6324,25406,Šiaulių apskritis
+6325,48943,Wien
+6328,62416,Loures
+6329,42473,Metropolitan City of Milan
+6330,203296,Helsinki
+6331,6724,Berlin
+6332,24940,Mittelfranken
+6333,20766,Département de Paris
+6334,1853,Wien
+6336,2857,Rheinland-Pfalz
+6338,42473,Moskva
+6342,203993,Apeldoorn
+6346,680,Sachsen-Anhalt
+6350,39351,Skåne län
+6352,13041,Barcelona
+6357,39138,Arnsberg
+6363,29169,Seine-Saint-Denis
+6364,265721,Sosua
+6366,8670,Kanton Sarajevo
+6367,15133,Tokyo
+6368,39138,Düsseldorf
+6372,680,Oberbayern
+6374,43350,Rotterdam
+6379,36236,Durham County
+6380,30997,Ayawaso East Municipal
+6382,5607,Berkshire
+6384,52039,Ille-et-Vilaine
+6385,21473,Karlsruhe
+6387,21473,Rhineland-Palatinate
+6388,17054,Allegheny County
+6389,36444,Oakland County
+6390,20612,Bülach
+6392,42473,Dubai
+6393,264811,Princes Town Regional Corporation
+6396,5539,Oberbayern
+6400,202196,Amsterdam
+6402,31287,Sofia City Province
+6407,55002,King County
+6408,36236,Maricopa County
+6410,22548,São Paulo
+6411,55002,Santa Clara County
+6413,34549,Darmstadt
+6414,3236,Mykolaivs'ka oblast
+6417,48112,Municipiul București
+6418,17054,Hamilton County
+6420,42473,Estado de México
+6423,41000,Greater Manchester
+6424,50178,Provincia autonoma di Bolzano - Alto Adige
+51663,2497,Tokyo
+6427,9268,City of Sydney
+6428,32425,Hanover County
+6429,48292,Ataşehir
+6431,50999,Jeddah
+6432,34878,Karlsruhe
+6433,206479,Darmstadt
+6435,35574,Città Metropolitana di Milano
+6438,51859,Grad Beograd
+6439,55002,Darmstadt
+6441,60396,Skåne län
+6445,61174,Uster
+6446,36236,Greater London
+6447,35065,Sachsen
+6450,35574,Città metropolitana di Roma Capitale
+6451,55002,Berkshire
+6453,60149,Municipiu Iaşi
+6475,60149,Municipiu Timişoara
+6476,48362,Feldkirch
+6485,64112,Santiago
+6490,559,Neuchâtel
+6493,852,Metro Vancouver
+6496,59715,Provincia di Ascoli Piceno
+6498,852,Montréal
+6501,196745,Dorset
+6504,8893,Hamburg
+6505,16010,Tbilisi
+6507,48821,Düsseldorf
+6509,31034,Provincia di Arezzo
+6510,43289,Chișinău
+6512,28792,Oxfordshire
+6514,24586,Rotterdam
+6515,201126,Surrey
+6517,917,Loudoun County
+6518,206610,Esch-sur-Alzette
+6519,41495,Greater Manchester
+6522,1403,Montérégie
+6523,206291,Arlesheim
+6524,55002,Loudoun County
+6526,29114,Gorod Ivanovo
+6533,2613,Lausanne
+6534,200462,Darmstadt
+6535,209915,Düsseldorf
+6536,200675,Norrbottens län
+6538,49673,Gorod Novosibirsk
+6541,42207,Ljubljana
+6543,58057,Brugg
+6547,202297,Hlavní město Praha
+6548,12374,Stuttgart
+6549,15133,New York County
+6552,201971,Lincolnshire
+6558,25220,Darmstadt
+6559,199188,Berkshire
+6560,205678,Bülach
+6565,63056,Vermilion County
+6567,1140,Arnhem
+6569,42473,Ekurhuleni Metropolitan Municipality
+6571,200129,Esch-sur-Alzette
+6574,40809,Hudson County
+6576,60316,Düsseldorf
+6577,28725,Hlavní město Praha
+6580,63834,Tokyo
+6583,20764,Moskva
+6585,36236,Loudoun County
+6588,10886,Fairfax County
+6589,58057,Düsseldorf
+6590,199610,Miami-Dade County
+6600,42263,Darmstadt
+6601,58057,Darmstadt
+6602,36236,Santana de Parnaíba
+6603,197357,Municipiul București
+6616,47794,Riyadh Principality
+6618,8758,Mittelland
+6623,44050,Sankt-Peterburg
+6624,58067,Chita
+6625,21659,Moncton
+6626,31673,Amsterdam
+6629,202422,Cook County
+6630,42093,Enschede
+6631,202422,Tokyo
+6632,1103,Den Haag
+6634,5006,Hennepin County
+6641,202422,Seoul
+6642,202422,Luxembourg
+6643,202422,Miami-Dade County
+6644,199524,Hudson County
+6647,199610,England
+6648,209523,Val-de-Marne
+6649,199610,Los Angeles County
+6655,60781,Haarlem
+6658,20904,Oulu
+6659,202422,Barueri
+6661,202422,Amsterdam
+6662,202422,Bakırköy
+6663,202422,Città Metropolitana di Milano
+6664,202422,Petach Tikva
+6666,202422,Département de Paris
+6668,202422,Madrid
+6669,202422,Warszawa
+6670,202422,Greater London
+6680,39790,Hlavní město Praha
+6686,21013,Wels
+6687,39069,Murcia
+6689,210036,Zürich
+6692,5006,Dallas County
+6695,786,Berkshire
+6696,16276,Nord
+6715,16276,Gießen
+6716,25376,England
+6717,39180,Rhône
+6719,16276,Montérégie
+6722,51349,Harju maakond
+6723,45204,Khan-Uul District
+6725,21700,New York County
+6727,16276,City of Sydney
+6728,34019,Val-de-Marne
+6731,8308,Warszawa
+6733,8985,Moskva
+6734,24940,Helsinki
+6736,209097,Rhône
+6740,1850,Reykjavíkurborg
+6751,62310,Berlin
+6761,553,Freiburg
+6762,41327,Città metropolitana di Palermo
+6764,138466,City of Sydney
+6769,3491,Fairfax County
+6774,54632,Metro Vancouver
+6775,394256,Metro Vancouver
+6776,61135,Bakırköy
+6779,3491,Ekurhuleni Metropolitan Municipality
+6780,34927,Winterthur
+6782,19750,Santa Clara County
+6783,199610,New York County
+6784,3491,Darmstadt
+6787,9136,Niedersachsen
+6788,2852,Brno-město
+6789,44973,Unterfranken
+6798,36236,Ras al Khaimah
+6800,16276,Powiat warszawski zachodni
+6801,36236,Santiago
+6804,16409,Fairfax County
+6811,3491,Los Angeles County
+6813,202040,Karlsruhe
+6815,204671,Harju maakond
+6817,12876,Val-de-Marne
+6818,3491,Neihu District
+6824,42699,Sachsen
+6826,42184,Münster
+6827,1111,Klagenfurt am Wörthersee
+6830,2486,Département de Paris
+6831,62538,Los Angeles County
+6833,62538,Alameda County
+6834,58299,Winterthur
+6835,30475,Arapahoe County
+6838,680,Mittelfranken
+6842,29670,Berlin
+6844,3326,Kyiv City
+6845,198228,Silistra
+6846,8426,Seine-Saint-Denis
+6849,4608,Brisbane City
+6851,197564,Stockholms län
+6852,41009,Poltavs'ka oblast
+6853,49404,Omsk
+6857,8763,Darmstadt
+6858,680,Saarland
+6860,53356,Toronto
+6861,2107,Ljubljana
+6862,208751,Midden-Groningen
+6863,12414,Dronten
+6866,12414,Apeldoorn
+6868,207788,Oslo kommune
+6870,15693,Diemen
+6872,43317,Sankt-Peterburg
+6874,20965,Département de Paris
+6876,50012,Yavorivs'kyi district
+6877,208725,Steenbergen
+6879,5607,Greater London
+6881,41798,Almaty
+6883,49505,Sankt-Peterburg
+6885,15600,Arlesheim
+6886,212567,Wien
+6888,835,Toronto
+6892,31655,Greater Manchester
+6894,39138,Berlin
+6898,398960,Alameda County
+6899,10961,Suffolk County
+6900,48328,Upper Bavaria
+6903,401104,Harris County
+6905,59238,Krung Thep Maha Nakhon
+6909,63949,Alameda County
+6911,198249,Dielsdorf
+6919,210834,Esch-Uelzecht
+6921,203476,Seine-Saint-Denis
+6922,39835,Niedersachsen
+6924,239,Toronto
+6925,57695,Clay County
+6926,48386,Madrid
+6927,57695,Bergen County
+6928,917,Fairfax County
+6929,38880,Yarra Ranges Shire
+6930,42905,Odes'ka oblast
+6931,64116,Lima
+6932,1200,Amsterdam
+6934,396507,King County
+6935,35487,Ekurhuleni Metropolitan Municipality
+6936,57578,Gorod Khabarovsk
+6938,36198,Dallas County
+6940,63949,Darmstadt
+6942,16125,Šiaulių apskritis
+6948,207841,Greater London
+6949,7377,Seine-et-Marne
+6953,12008,Delhi Division
+6956,28785,Szczecin
+6960,29152,Seine-Saint-Denis
+6961,199181,Province of Salerno
+6963,206548,Hlavní město Praha
+6965,1213,County Dublin
+6966,14061,Toronto
+6967,14061,Darmstadt
+6968,14061,Bangalore Division
+6969,14061,Government of Amsterdam
+6971,14061,Berkshire
+6972,14061,New York County
+6973,14061,Santa Clara County
+6974,55569,Tokyo
+6985,12008,Warszawa
+6993,12008,Ekurhuleni Metropolitan Municipality
+6997,202536,Körfez
+6999,15451,Mittelfranken
+7000,197422,Haute-Garonne
+7003,39637,Arnhem
+7005,204059,Brussel
+7006,34953,Köln
+7008,30971,Wien
+7009,208520,Riyadh Principality
+7011,917,King County
+7012,13101,Schleswig-Holstein
+7013,30971,Salzburg
+7014,19528,Montgomery County
+7017,42612,Madrid
+7020,21277,Erbil
+7021,206062,Nottingham
+7022,200567,Schleswig-Holstein
+7024,6881,Hlavní město Praha
+7025,58057,Dronten
+7026,57777,Zürich
+7030,23961,New Territories
+7031,45009,Ouder-Amstel
+7033,9008,Luxembourg
+7034,39702,Karlsruhe
+7036,12306,Darmstadt
+7038,14907,Denton County
+7042,24776,Seine-Saint-Denis
+7043,395823,King County
+7044,50903,Territoire de Belfort
+7047,15412,Dubai
+7048,210403,Meurthe-et-Moselle
+7052,23483,Shasta County
+7053,57692,Helsingfors
+7054,12931,Schwaben
+7060,945,Clay County
+7063,37153,City of Tshwane Metropolitan Municipality
+7066,49558,Gorod Yaroslavl'
+7067,203596,Seine-Saint-Denis
+7070,4508,Waterloo Regional Municipality
+7071,21409,Marne
+7072,57578,Sankt-Peterburg
+7073,202032,Mendrisio District
+7077,132420,Meerut Division
+7078,3491,City of Sydney
+7079,3491,Greater London
+7080,3491,Tokyo
+7081,5459,Greater London
+7083,31510,Innsbruck
+7084,1257,Östergötland County
+7085,49088,Autonome Provinz Bozen - Südtirol
+7086,15699,Madrid
+7087,40581,Washington County
+7090,13004,Grad Beograd
+7095,397031,Richmond County
+7096,47295,Sachsen
+7097,56381,Darmstadt
+7100,39484,Tampere
+7101,2611,Antwerpen
+7105,267,Oakland County
+7106,265695,La Vega
+7107,15440,Vilniaus apskritis
+7108,58475,Banjarmasin City
+7109,8473,Stockholm County
+7110,21034,Provincia di Chieti
+7111,24324,Wellington
+7112,204995,Haarlem
+7113,52863,Barueri
+7115,7642,Malé
+7116,52863,Miami-Dade County
+7117,59645,Düsseldorf
+7120,209103,Genève
+7122,204515,Essonne
+7124,52511,Santiago
+7125,33920,West Yorkshire
+7128,399580,Saskatchewan
+7130,210422,Uppsala län
+7134,48813,Seine-Saint-Denis
+7136,2200,Isère
+7137,15576,Zürich
+7139,41887,Government of Amsterdam
+7140,49675,Moskva
+7141,29423,Darmstadt
+7143,39040,Zürich
+7144,209669,Greater London
+7145,41494,Municipiul București
+7146,29075,Val-de-Marne
+7147,6057,Pando
+7148,208976,Darmstadt
+7149,3303,March
+7150,208972,Bakırköy
+7152,12437,Münster
+7155,203136,Zugdidi Municipality
+7156,50030,Berlin
+7157,53698,Sacramento County
+7159,53698,Maricopa County
+7165,208398,Moskva
+7169,39063,Darmstadt
+7170,15419,Vilnius City Municipality
+7171,35132,Sunnfjord
+7173,29695,Bodø
+7178,25003,Tel Aviv District
+7179,52210,Ottawa
+7181,204471,Provincia di Trieste
+7182,34785,Klagenfurt am Wörthersee
+7183,207143,Wien
+7184,208398,Darmstadt
+7187,208398,Loudoun County
+7189,12552,Stockholms län
+7190,208398,Amsterdam
+7193,59678,Middlesex County
+7195,15456,Oberbayern
+7197,13030,Mittelland
+7198,3491,Dubai
+7199,12110,Hillsborough County
+7202,44788,Département de Paris
+7206,60841,Dallas County
+7207,328699,Plaines Wilhems District
+7208,9022,Rheinland-Pfalz
+7210,42953,County Cork
+7211,25248,Hlavní město Praha
+7213,13303,Nišavski okrug
+7214,43418,Kyiv City
+7217,200019,Chișinău
+7220,200995,Ede
+7221,7752,King County
+7223,25192,Hlavní město Praha
+7224,54316,Fairfield County
+7225,29287,Wien
+7226,49703,Esch-Uelzecht
+7227,35008,Alameda County
+7231,200232,Utrecht
+7236,44024,Municipiu Drobeta-turnu Severin
+7244,34547,Karpoš
+7245,51430,Sofia City Province
+7246,51430,Bülach
+7248,198150,Tbilisi
+7249,41931,Białystok
+7250,51430,Stockholms län
+7251,207604,Grad Beograd
+7253,1280,Santa Clara County
+7256,13781,Christian County
+7258,207143,Horgen District
+7260,213093,Varna
+7261,14907,Haarlem
+7262,1221,City of Perth
+7267,400245,Cook County
+7268,41047,Düsseldorf
+7269,45117,Tamil Nadu
+7271,142360,Semarang City
+7274,43391,Bornova
+7275,45725,Kota Jakarta Selatan
+7276,139949,Batam City
+7277,9829,Lower Assam Division
+52129,40980,Graz-Umgebung
+1000026,1403,Toronto
+1000036,13036,Praha-západ
+1000043,47787,Leiria
+1000051,47654,Nadymsky District
+1000067,25512,Prachatice District
+1000071,13036,Kroměříž
+1000078,43708,Brno-City District
+1000142,58317,Stockholms län
+1000167,7506,Tokyo
+1000172,24889,Neuchâtel
+1000201,24940,Middle Franconia
+1006429,12414,Westerwolde
+1006447,211588,Amsterdam
+1006454,3269,Città metropolitana di Milano
+1006462,1221,City of Casey
+1006466,1221,Shire of Mornington Peninsula
+1006468,8560,Greater London
+1006469,15435,Sittard-Geleen
+1006480,12880,Shiraz
+1006482,31898,City of Melbourne
+1006501,205697,Madrid
+1006502,2607,Košice I
+1006503,8820,Tübingen
+1006516,13037,Bristol City
+1006527,12322,Haut-Rhin
+1006531,57073,Moskva
+1006533,18464,New Territories
+1006534,18464,Tokyo
+1006537,30722,Città metropolitana di Catania
+27902,61094,Grad Pag
+27908,197965,Darmstadt
+27920,203231,Greater London
+27925,33819,Vladivostok Urban Okrug
+27959,15623,Arlesheim
+28008,8881,Hamburg
+28028,13030,Uri
+28083,30722,Provincia di Treviso
+28085,3303,Mendrisio District
+28093,3269,Provincia di Pordenone
+28108,59128,Kyoto
+28118,19901,Albemarle County
+28123,12496,Surrey
+28126,12716,Sofia Province
+28137,39028,Gorod Dimitrovgrad
+28154,701,Mercer County
+28159,206238,Gouda
+28161,48149,Gorod Korolev
+28170,41495,Geneva
+28195,27699,São José dos Campos
+28197,28573,São José dos Campos
+28221,14593,La Plata County
+28226,23655,Wellington
+28255,7922,Rockingham County
+28265,8881,Oberbayern
+28273,198537,Powiat lubiński
+28310,12322,Saône-et-Loire
+28320,50304,Oslo kommune
+28338,13030,Solothurn
+28344,131158,Osaka
+28347,3269,Metropolitan City of Milan
+52962,15435,Goeree-Overflakkee
+28376,2527,Chiba
+28386,210218,Provincia di Rovigo
+28404,1136,Maastricht
+28405,15962,Nitra
+28410,48072,Haute-Garonne
+28412,53550,Seine-Saint-Denis
+28418,5410,Département de Paris
+28434,4764,Northern Beaches Council
+28447,33915,Purmerend
+61641,13030,Bern-Mittelland District
+28460,13101,Niedersachsen
+28465,15547,Sierre
+28475,205112,Düsseldorf
+28477,134111,City of South Perth
+28478,1759,Lahti
+28498,206238,Hilversum
+28499,3269,Città Metropolitana di Milano
+28503,4764,City of Stirling
+28545,9121,Edremit
+28566,15435,Laarbeek
+28567,12874,Provincia di Modena
+28580,2860,Montemor-o-Velho
+28594,28685,Lelystad
+28614,8447,Bruck-Mürzzuschlag
+28637,9145,Bremen
+28651,25310,Cheshire East
+28652,15600,Wasseramt
+28659,7922,Lancaster County
+28666,49828,Dolgoprudnyi
+28711,17511,Hyogo
+28740,206238,Tilburg
+28752,6805,Arnsberg
+28754,60294,Detmold
+28769,8447,Leibnitz
+28774,39912,Baden
+28778,199610,Darmstadt
+28831,5089,Central Bedfordshire
+28856,50266,Deventer
+28922,44297,Ille-et-Vilaine
+28932,60294,Rhineland-Palatinate
+28934,8881,Saarland
+28944,201080,Yonne
+28949,8758,Baden District
+28961,8447,Baden District
+29006,33083,Middlesex County
+29036,2907,Miyagi
+29037,45118,City of Perth
+29049,7018,East Baton Rouge Parish
+29062,7922,Sacramento County
+29065,4764,Ku-ring-gai Council
+29074,51604,Yekaterinburg
+29086,45838,City of Sydney
+29146,134090,City of Playford
+29203,210793,Upper Bavaria
+29213,3320,Saarland
+29248,34177,Département de Paris
+29321,206236,Niedersachsen
+29331,2107,Novo mesto
+29339,201072,Alpes-Maritimes
+29340,209040,Detmold
+29360,1136,Amersfoort
+29377,42965,Niedersachsen
+29415,42455,Douglas
+29418,15435,Ede
+29455,29580,Plovdiv
+29502,62276,Deutschlandsberg
+29505,8447,Steyr-Land
+29530,45797,Western Australia
+29543,9063,Rhineland-Palatinate
+29566,3301,Gotlands län
+29568,3303,Dietikon
+29606,12322,Territoire de Belfort
+29633,3209,Rheinland-Pfalz
+29642,1257,Västra Götaland County
+29643,12322,Isère
+29683,5603,Novo mesto
+29741,8351,Mecklenburg-Vorpommern
+29746,208329,Hlavní město Praha
+29754,16019,Pardubice
+29760,8767,Oberbayern
+29770,12322,Côte-d'Or
+29775,3249,Harju maakond
+29790,8881,Saxony
+29823,34977,Valencia
+29863,201094,Khmel'nyts'ka oblast
+29926,201886,Stuttgart
+29989,1136,Overbetuwe
+30008,269782,Maracaibo
+30012,21283,Ljubljana
+30045,8053,Sucre
+30104,8758,Winterthur District
+30110,3303,Seeland District
+30259,202094,Città Metropolitana di Torino
+30270,20712,East Riding of Yorkshire
+30306,2516,Kyoto
+30370,8758,Affoltern
+30402,5410,Haute-Garonne
+30437,46375,Sonoma County
+30458,9145,Münster
+30485,206557,Troms og Finnmark fylke
+30499,13030,Sarganserland
+30501,34660,South Yorkshire
+30540,31036,Tomsk
+30572,1136,Kaag en Braassem
+30596,1680,Haifa
+30704,29104,Yvelines
+50412,207790,Schleswig-Holstein
+30748,25424,Zlín
+30755,205100,Mittelfranken
+30768,12741,Łódź
+30774,2027,Ille-et-Vilaine
+30787,202898,Deux-Sèvres
+30795,43910,Tübingen
+30797,701,Baltimore County
+30807,12322,Rhône
+30810,6805,Berlin
+30869,39686,Eindhoven
+30910,30741,Haute-Garonne
+30923,8447,Mistelbach
+30982,43127,Kreuzlingen
+30983,8708,Municipiu Cluj-napoca
+31112,44974,Unterfranken
+31169,53859,Placer County
+31206,35271,Ramensky District
+31224,209,Weld County
+31228,56030,Auckland
+31242,134053,Goa
+31253,10796,Fairfield County
+31288,2686,Government of Amsterdam
+31295,56304,Canterbury
+31302,852,Capitale-Nationale
+31318,30600,Ingham County
+31346,41937,Pomoravski okrug
+31347,137576,Ryde City Council
+31362,577,Montérégie
+31416,61506,Valparaíso Province
+31424,8437,Mistelbach
+31427,41368,Albacete
+31453,16629,Iquique Province
+31492,30325,Johnson County
+31504,199571,Seine-Saint-Denis
+31533,3215,Vendée
+31549,13030,Baden District
+31561,6730,Rheinfelden
+31564,20766,Oise
+31642,202716,Oberbayern
+31692,6730,Meilen
+31744,3303,Aarau
+31752,20810,Kassel
+31787,15663,Provincia di Perugia
+31798,50873,Düsseldorf
+31800,13097,Provincia di Vicenza
+31816,3303,Prättigau/Davos
+31820,8881,Mecklenburg-Vorpommern
+31850,6730,Hinwil
+31863,3215,Côtes-d'Armor
+31884,3303,Meilen
+31890,42708,Västra Götalands län
+31912,8708,Comuna Șelimbăr
+31927,202605,Olomouc
+31949,16019,Olomouc
+32006,12570,Brno-venkov
+32028,41955,Niedersachsen
+32037,43709,Karviná
+32038,2119,Dalarnas län
+32053,8758,Sursee
+32068,197227,Poznań
+32120,12886,Schwaben
+32136,8319,Kassel
+32172,2514,Aichi
+32185,8473,Örebro län
+32190,200561,Darmstadt
+32201,51519,Skåne County
+32232,786,Southampton
+32266,13037,Cheshire West and Chester
+32271,8708,Municipiul Sibiu
+32316,11427,Cook County
+32321,47836,Amsterdam
+32330,1136,Emmen
+32397,23523,De Salaberry
+1005285,33915,Rotterdam
+32409,29314,Toruń
+32421,7018,Shelby County
+32496,8468,Greater Manchester
+32545,701,Hudson County
+32560,201887,West-Vlaanderen
+32561,1136,Houten
+32614,203817,Kehys-Kainuu
+32630,15557,Côte-d'Or
+32644,15557,Savoie
+32685,206339,Stuttgart
+32703,8339,Mattersburg District
+32710,7922,Spotsylvania County
+32719,35067,Kharkivs'ka oblast
+32729,12322,Isere
+32749,2514,Hiroshima
+32783,17948,Tokyo
+32816,50300,Kent
+32834,5645,Simcoe County
+32849,63298,Gem County
+32853,11427,Collin County
+32863,50247,Powiat zawierciański
+32868,48846,Madrid
+32890,2856,Lisburn and Castlereagh
+32904,4764,City of Wollongong
+32925,36884,Agadir-Ida-Ou Tanane Province
+32961,206087,Zug
+33183,577,Ottawa
+33047,4766,Jeollabuk-do
+33053,37640,Ehlanzeni District Municipality
+33066,1136,Waddinxveen
+33069,207176,Delft
+33107,17676,Saitama
+33109,7922,Snohomish County
+33154,37640,City of Cape Town Metropolitan Municipality
+33170,3,Middlesex County
+33178,4760,New Territories
+33205,31472,Norfolk
+33211,62024,Tartu maakond
+33226,786,Kent
+33229,50266,Alphen aan Den Rijn
+33241,3215,Hauts-de-Seine
+33248,15614,Nymburk
+33287,205535,Příbram District
+33302,206238,Arnhem
+33334,202870,Provincia di Bergamo
+33343,38195,Australian Capital Territory
+33388,199095,West-Vlaanderen
+33407,13189,Dalarnas län
+33415,19504,Pottawatomie County
+33422,59397,Helsinki
+33435,33363,Pinellas County
+33446,50017,Hamburg
+33455,29624,Unterfranken
+33477,15557,Meurthe-et-Moselle
+33495,701,Somerset County
+33508,27792,Castellanos
+33606,200031,Kielce
+33646,701,Virginia
+33688,202632,Tuzla Canton
+33690,28099,Valparaiso
+33699,7922,Worcester County
+33705,701,Queens County
+33706,4764,Cardinia Shire
+33763,203752,Južnobački okrug
+33796,21412,Kauno apskritis
+33849,6810,Jerusalem District
+33868,8758,Kreuzlingen
+33871,209400,Karlsruhe
+33877,16117,Gavleborg County
+33885,198717,Warszawa
+33887,9182,Detmold
+33907,34958,Meurthe-et-Moselle
+33934,38987,Powiat rzeszowski
+33936,6805,Tübingen
+33950,9031,Namur
+33951,206006,Powiat jarosławski
+33986,5617,Toruń
+34009,8767,Mittelfranken
+34020,6535,Maipo
+34035,12496,Nottinghamshire
+34062,7922,DeKalb County
+34084,11427,Travis County
+34099,3209,Sachsen
+62980,31554,Municipiul București
+34181,62373,Klagenfurt am Wörthersee
+34261,16591,Fulton County
+34302,27928,Panamá
+34313,46416,Oklahoma County
+34341,2119,Trondheim
+34419,31827,Montgomery County
+34423,12874,Provincia di Imperia
+34429,15704,Málaga
+34430,61110,Plzeň-město
+34494,57254,Powiat suski
+34495,15962,Prievidza District
+34509,31604,Rzeszów
+34526,205934,Powiat oławski
+34535,204126,Powiat kolneński
+34561,20766,Gironde
+34568,36817,Leduc County
+34572,3221,Saare maakond
+34574,46044,Kota Bandung
+34579,35539,Gorod Korolev
+34593,57353,Detmold
+34598,39931,Doubs
+34604,12312,Brandenburg
+34615,786,Greater London
+34621,36549,Grand Cayman
+34635,2116,Bodø
+34657,39648,Västra Götalands län
+34658,209,Adams County
+34664,200845,Girona
+34667,3462,Shilin District
+34680,7922,New Haven County
+34700,6871,Northamptonshire
+34707,8473,Västerbottens län
+34715,8953,Municipiu Arad
+34785,8468,Cambridgeshire
+34801,8632,Esch-sur-Alzette
+34804,7922,San Mateo County
+34812,202329,Karlsruhe
+34813,6568,Murillo
+34841,7018,Mecklenburg County
+34857,1136,Nijkerk
+34916,1942,Isère
+34940,12741,Kraków
+34972,29140,Darmstadt
+34974,33923,Bieruń-Lędziny County
+34979,31122,County Laois
+34992,64475,Darmstadt
+35020,6939,Bernalillo County
+35021,50467,Powiat oświęcimski
+35027,33915,Almere
+35045,35985,Fulton County
+35060,42689,Greater London
+35064,701,Delaware County
+35068,49403,Kotel'niki
+35140,20412,Laramie County
+35154,1136,Dordrecht
+35229,1257,Bauskas pilsēta
+35251,4739,Queanbeyan–Palerang Regional Council
+35283,7018,Cobb County
+35296,54869,Genesee County
+35316,8697,Amman Governorate
+35346,34606,Città Metropolitana di Torino
+35357,9063,Rheinland-Pfalz
+35408,28876,Oberfranken
+35437,24739,Sankt-Peterburg
+35478,29695,Horten
+35503,207790,Hamburg
+35512,6805,Düsseldorf
+35530,9044,Wasseramt
+35556,263824,Cayo District
+35557,395748,Beaver County
+35578,8473,Värmlands län
+35581,202870,Provincia di Vercelli
+35591,9031,Brabant Wallon
+35603,2488,Mödling
+35605,12657,Niederbayern
+35628,7018,Forsyth County
+35658,3215,Alpes-de-Haute-Provence
+35683,34820,Vranov nad Topľou
+1005704,202870,Città Metropolitana di Torino
+35708,52080,Paphos
+35709,11097,Campinas
+35716,61337,Buckinghamshire
+35741,328262,uMgungundlovu District Municipality
+35759,701,Alameda County
+35768,7029,Cuyahoga County
+54176,20115,Dane County
+35780,204052,Thüringen
+35783,6739,Valencia
+35786,8151,Baja California Sur
+35789,3215,Canton de Saint-Louis-2
+35791,37002,Canton de Saint-Denis-3
+50001,12414,Heemstede
+1005585,3320,Oberbayern
+50017,14593,Clarke County
+61630,6830,County Dublin
+50029,200801,Karlsruhe
+50031,1136,Aalsmeer
+50036,6893,Jura-Nord vaudois
+50039,8540,Sankt Veit an der Glan
+50041,27747,Comuna 1
+50043,207995,East Sussex
+50074,50226,Hermagor
+50114,51561,Cumbria
+50126,28979,Karlsruhe
+50128,30600,Polk County
+50137,2504,Kyoto
+50146,7922,Elkhart County
+50148,7018,Collin County
+50153,39835,Giessen
+50158,202329,Stuttgart
+50161,2119,Värmlands län
+50176,201035,Lower Saxony
+50183,6866,Limassol
+50189,577,Regional Municipality of Peel
+50199,9121,Altındağ
+50200,11351,Erie County
+50201,3367,Saint John
+50203,208189,Surrey
+50208,11708,Clay County
+50223,40764,Ogle County
+50228,29399,Ataşehir
+50241,2027,Yvelines
+50252,3243,Funchal
+50266,8283,Ouder-Amstel
+50270,12929,Nittedal
+50282,202130,Nilüfer
+50284,22773,Okaloosa County
+50288,15557,Vosges
+50299,12322,Alpes-Maritimes
+50313,23655,Canterbury
+50324,139049,City of Melbourne
+50327,63927,Cebu
+50328,33932,Barcelona
+50331,12605,Linz
+50344,32809,Cass County
+50345,7418,Santiago
+50348,25374,Haskovo
+50350,41153,Delft
+50351,55850,Wellington
+50363,855,Fredericton
+50364,25098,Greater London
+50396,328266,City of Cape Town Metropolitan Municipality
+50417,9600,Tokyo
+50430,30600,Cerro Gordo County
+50446,63479,Capital
+50461,27901,San Antonio
+50473,200635,Prague-East District
+50481,46577,Alameda County
+50483,3243,Santa Cruz das Flores
+50488,209,Hennepin County
+50489,197669,Greater London
+50493,3215,Canton de Saint-Joseph
+50495,20115,Houston County
+50514,396515,Alberta
+50524,45700,Wonogiri Regency
+50531,5410,Hautes-Alpes
+50535,2852,Pardubice
+50541,8245,Baden District
+50544,15557,Finistère
+50552,5466,County Meath
+50554,50309,Vlaams-Brabant
+50557,203937,Powiat biłgorajski
+50559,3303,See-Gaster District
+50573,200590,Almaty
+50583,1136,Zaanstad
+50600,1836,See-Gaster District
+50604,8612,Libero consorzio comunale di Trapani
+50605,208764,Općina Strahoninec
+50607,6830,County Cork
+50608,197696,Département de Paris
+50613,25581,Balzers
+50616,16086,Lahti
+50622,58291,Zuidplas
+50630,8708,Oraş Otopeni
+52973,29014,Hamburg
+50652,203602,Tampere
+50655,1257,Gävleborgs län
+50658,44512,Provincia autonoma di Bolzano - Alto Adige
+50663,8220,Stuttgart
+50669,3243,Carrazeda de Ansiães
+50741,6730,See-Gaster District
+50701,3243,Covilhã
+50703,41652,Gironde
+50706,12389,Odintsovskiy rayon
+50708,2119,Skåne län
+50713,5466,County Cork
+50722,12322,Loire
+50732,42695,Blekinge län
+50736,31543,Imst
+50740,8953,Municipiu Timişoara
+50758,7545,City of Lake Macquarie
+50760,1136,Geldrop-Mierlo
+50761,41652,Haute-Garonne
+50773,7018,Richmond County
+50778,7018,Garland County
+50781,50266,Veldhoven
+50789,9161,Dorset
+50791,23089,Rowan County
+50793,29695,Eidsvoll
+50797,8542,Bergen
+50806,29582,Shumen
+50823,31122,County Dublin
+50831,8865,Białystok
+50840,12923,Niedersachsen
+50849,12350,See-Gaster District
+50850,210140,Gävleborgs län
+50852,3320,Oberfranken
+50857,200486,Darmstadt
+50862,12231,Faulkner County
+50864,41437,Graz-Umgebung
+50865,24751,Jakobstadsregionen
+50898,203201,Città metropolitana di Palermo
+50901,56030,Waikato
+50911,15962,Púchov
+50912,8487,Nord
+50917,35244,Tübingen
+50918,3320,Unterfranken
+50941,14593,Hunt County
+50943,2119,Lillestrøm
+50961,8501,Poznań
+50972,6128,Hudson County
+50983,1136,Pijnacker-Nootdorp
+50984,34177,Savoie
+50994,395965,Middlesex County
+51001,51234,Gorod Kumertau
+51008,12271,Orange County
+51010,205679,Świnoujście
+51012,3303,Obwalden
+51023,134090,Brisbane City
+61161,3209,Lower Saxony
+51034,24837,Chita
+51040,12083,Pinellas County
+51046,57269,Castelló
+51049,197448,Warszawa
+51057,203556,Łódź
+51071,39305,Vienne
+1003105,39835,Kassel
+51088,4764,Sutherland Shire Council
+51090,39699,Forssa
+51094,3209,Tübingen
+51130,29018,Düsseldorf
+51131,5645,Winnipeg
+51133,3243,Entroncamento
+51136,14593,England
+51140,15038,Providence County
+51146,7922,Frederick County
+51147,13000,Powiat wodzisławski
+51151,57128,Gorod Kazan'
+51171,29695,Gjøvik
+51188,6661,Mersch
+51190,3243,Arruda dos Vinhos
+51193,7018,Orange County
+51195,199565,Općina Vratišinec
+51199,8399,Département de Paris
+51209,200761,Provincia di Pordenone
+51215,39083,Karlsruhe
+51217,49544,Amsterdam
+51230,16065,Oslo kommune
+51237,3215,Pas-de-Calais
+51239,34134,Norfolk
+51244,60016,See-Gaster District
+51245,34606,Provincia di Imperia
+51247,44377,Grad Varaždin
+51251,39603,Powiat poznański
+51253,15925,Niedersachsen
+51256,196714,Thüringen
+51257,6871,West Sussex
+51266,44600,Kyjevo-Svyatoshyns'kyi district
+1004588,33915,Arnhem
+51280,15557,Loiret
+51295,29447,Provincia di Biella
+51301,395662,Washington County
+51303,196610,Darmstadt
+51310,8047,Anchorage Municipality
+51313,12941,Saarland
+51331,395257,Fairfax County
+51335,35891,Hillsborough County
+51343,5650,Cabell County
+51354,20115,Spartanburg County
+51358,8758,Schwyz
+51359,14773,Lancaster County
+51398,263775,Capital
+51423,9607,Tokyo
+51433,7545,City of Sydney
+51438,852,Central Okanagan
+51440,10279,Greenwood County
+51459,7922,Hennepin County
+51486,14117,Llanquihue Province
+51488,38968,Amman Governorate
+51493,44002,Hlavní město Praha
+51496,40981,Glavni grad Podgorica
+51509,3216,Gorod Alatyr'
+51514,44185,Bratislava IV
+51524,7545,Bayside Council
+51525,3462,Taoyuan District
+51527,27651,El Loa
+51551,3741,Buffalo City Metropolitan Municipality
+51621,47132,Wien
+51625,15435,Almelo
+51639,27796,Panamá
+51671,209,Missoula County
+51680,19310,Gratiot County
+51681,12941,Darmstadt
+51729,43019,Beirut
+51739,8151,Yucatán
+51745,2856,Hertfordshire
+51749,6400,Santo Domingo de Guzman
+51755,5378,Peterborough
+51756,30938,Dumfries and Galloway
+51801,47626,Gorod Rostov-On-Don
+51811,206718,Bishkek City
+51814,8346,Dakar
+51834,42652,Schwaben
+51863,47524,Avcılar
+51868,701,Philadelphia County
+51875,204332,Bruntál
+51918,1926,Tampere
+51955,40029,Metro Vancouver
+51972,25513,Gorod Orekhovo-Zuyevo
+51984,34385,Västra Götalands län
+51988,34687,Moskva
+51991,852,Winnipeg
+51992,15962,Bratislava I
+51995,6855,Banská Bystrica
+52001,209505,West Yorkshire
+52005,9031,Limburg
+52008,7922,Miami-Dade County
+52010,50971,Jindřichův Hradec
+52014,5089,Staffordshire
+52019,35805,Didi digomi
+52028,35617,Province of Chieti
+52031,39405,Haute-Garonne
+52035,5769,Lanaudière
+52040,203512,Moravički okrug
+52041,11426,Carteret County
+52059,45638,City of Melbourne
+52072,207375,Heeze-Leende
+52082,61109,Imst District
+52154,8339,Eisenstadt
+52158,4713,Osaka
+52163,19016,Brandon
+52177,15165,Rice County
+52189,205975,South Yorkshire
+52196,209,Cass County
+19160,135132,Cebu
+19192,137074,Cebu
+19206,8764,Vilniaus apskritis
+19208,29396,Utrecht
+19213,25151,Ouder-Amstel
+19252,7922,Macon County
+19258,8339,Sankt Pölten-Land
+19276,1221,Central Coast Council
+19279,9008,Mersch
+19287,33837,Stockholms län
+19301,204064,Tachov
+19303,9026,Metropolitan City of Milan
+19304,62225,Halden
+19307,199524,Luxembourg
+19313,51265,Wien
+19324,5769,Capitale-Nationale
+19328,6661,Luxembourg
+19332,5410,Yvelines
+19343,49402,Ljubljana
+19354,62275,Provincia di Caserta
+19370,39555,Schwaz
+19380,43406,County Galway
+19384,204467,Chișinău
+19414,23889,Plaines Wilhems District
+19432,8447,Wiener Neustadt-Land
+19434,29081,Zwettl District
+19461,29314,Powiat Łódź
+19468,20676,Köln
+19473,35369,Linz
+19474,20686,Mittelfranken
+19503,10013,Yamanashi
+19507,44567,Metropolitan City of Milan
+19511,3303,Lugano
+19532,12874,Città Metropolitana di Milano
+19551,10352,Wood County
+19577,399899,Wheatland County
+19597,49788,Oslo kommune
+19598,59414,Dielsdorf
+19599,7018,San Joaquin County
+19624,21221,Government of Amsterdam
+19625,31727,West Yorkshire
+19627,15557,Seine-Maritime
+19632,3209,Schleswig-Holstein
+19644,46690,Hartford County
+19650,6730,Pfäffikon
+19658,15623,Zug
+19667,2614,Municipiu Târgu Mureş
+19669,51978,Mecklenburg-Vorpommern
+19675,48284,Tübingen
+19680,33915,Stichtse Vecht
+19684,43826,Sergiyevo-Posadsky District
+19690,1109,Salzburg
+19700,1136,Zandvoort
+19717,855,Riverview
+19723,33915,Enkhuizen
+19777,44124,Rybnik
+19789,21211,Vilnius City Municipality
+19793,5617,Powiat goleniowski
+19798,8708,Comuna Gura Vitioarei
+19815,12835,Provincia autonoma di Trento
+19840,41828,Ljubljana
+19847,3269,Città Metropolitana di Firenze
+19856,3215,Cher
+19858,49037,Gorod Rostov-On-Don
+19884,553,Tübingen
+19887,224,Tromsø
+19908,40497,Ramsey County
+19912,209,Ramsey County
+19921,41668,Gorod Kazan'
+19925,37126,Kinondoni
+19946,46375,Santa Clara County
+19963,16591,Bexar County
+19964,8395,Mytishchinsky District
+19977,6697,Minski rajon
+19997,49711,Minski rajon
+20001,48481,Kingiseppsky District
+20004,20561,Middle Franconia
+20008,208974,Karlsruhe
+20013,8362,Seine-et-Marne
+20015,49808,Linz
+20019,9121,Şişli
+20028,5466,County Kildare
+20057,5786,Pueblo
+20060,197637,Niedersachsen
+20072,3269,Provincia di Varese
+20073,31042,Podgorica Municipality
+20121,50324,Berlin
+20128,13036,Karviná
+20129,59702,Jönköpings län
+20130,20849,Karlsruhe
+20174,201644,'s-Hertogenbosch
+20175,3215,Maine-et-Loire
+20180,206238,Venlo
+20186,5645,Outaouais
+20206,12350,Genève
+20233,3215,Seine-Saint-Denis
+20257,203228,Kassel
+20264,198290,Esch-Uelzecht
+20277,57407,Darmstadt
+20279,17819,City of Sydney
+20287,41489,Berkshire
+20299,29695,Skien
+20324,206238,IJsselstein
+20354,3209,Upper Bavaria
+54316,2516,Tokyo
+20423,52458,Ibarra
+20430,59789,Wien
+20451,855,Prince Edward Island
+20466,5607,Ciudad de México
+20472,8636,Gorod Obninsk
+20482,28685,Amsterdam
+20485,9269,Hong Kong Island
+20499,8820,Düsseldorf
+20519,5645,Ottawa
+20544,14593,Chojnice County
+20551,13036,Karlovy Vary District
+20561,47227,Greater London
+20565,203618,Domžale
+20567,21385,Oberbayern
+20581,198725,Hlavní město Praha
+20612,16218,Düsseldorf
+20631,34154,Darmstadt
+20639,7922,Wayne County
+20649,20750,Vratza
+20667,33885,Stockholms län
+20695,31124,Morges
+20705,12389,Reutov
+20713,29504,Liberec
+20721,158,Stockholms län
+20745,200043,Provincia di Modena
+20756,33588,Flathead County
+20757,12319,Gipuzkoa
+20778,399898,Washington County
+20780,215733,County Kildare
+20792,20677,Stuttgart
+20795,34622,Skåne län
+20825,4764,City of Stonnington
+20874,31337,Stockholms län
+20904,42148,Pushkinsky District
+20970,44234,Martin
+20973,58328,Liptovský Mikuláš
+20975,56933,Hlohovec
+20977,56911,County Dublin
+20980,43801,Gorod Volgograd
+20985,56911,Provincia di Cosenza
+20991,8887,Žilina
+21001,393249,Metro Vancouver
+21009,852,Alberta
+21031,33588,Yellowstone County
+21035,33894,Gorod Mezhdurechensk
+21047,45475,Canterbury
+21120,37611,Ekurhuleni Metropolitan Municipality
+21152,7922,Ramsey County
+21181,7418,Valparaíso Province
+21190,209,Dakota County
+21221,57469,Autonome Provinz Bozen - Südtirol
+21227,15930,Gorod Voronezh
+21233,29305,Dąbrowa Górnicza
+21234,39375,Białystok
+21236,39560,Steyr
+21242,3243,Abrantes
+21243,30722,Città Metropolitana di Torino
+21265,12874,Autonomous Province of Trento
+21271,15704,Valencia
+21272,49640,Provincia di Brescia
+21277,51184,Wien
+21283,61211,Grad Jastrebarsko
+21286,24608,Provincia autonoma di Trento
+21290,51417,Stuttgart
+21296,57154,Freiburg
+21300,21412,Panevėžio apskritis
+21306,29484,Arnsberg
+21312,12322,Calvados
+21316,62023,Darmstadt
+21357,12496,York
+21360,16019,Mělník
+21369,3215,Deux-Sèvres
+21372,35826,Greater London
+21416,34372,Detmold
+21442,212865,Bülach
+21448,34878,Stuttgart
+21458,56588,Harju maakond
+21468,202870,Provincia di Rovigo
+21472,3269,Provincia di Bergamo
+21516,3269,Province of Caserta
+21517,3215,Département de Paris
+21529,50998,Liège
+21536,3215,Aveyron
+21552,224,Kristiansand
+21559,1797,CH
+21567,577,Capitale-Nationale
+21570,29119,Seville
+21646,35613,Brno-město
+21663,35444,Tirana
+21676,4528,Hong Kong Island
+21682,328384,Garden Route District Municipality
+21690,1136,Hilversum
+21700,4922,Virginia
+21714,4049,Wellington
+21739,15673,Gorod Pskov
+21757,9500,Wellington
+21776,62282,Vilniaus apskritis
+1005871,8447,Wien
+21783,50973,Tiranë
+21791,2381,Dane County
+21799,12543,Gorod Krasnodar
+21853,62429,Mytishchinsky District
+21905,30600,Kane County
+21907,55850,Auckland
+21915,24399,Hong Kong Island
+21932,3269,Provincia di Savona
+21950,8412,Krems-Land
+21956,15725,Thüringen
+21957,5410,Nord
+21959,42442,Darmstadt
+21965,206703,Brno-Country District
+21991,12322,Yonne
+21998,42557,Wien
+22003,51265,Provincia autonoma di Trento
+22009,209505,Lincolnshire
+22017,43171,Powiat Gdynia
+22026,31493,Greater London
+22036,4764,City of Sydney
+22038,8369,Chelyabinsk
+22042,13030,Frauenfeld
+22059,41696,Utrecht
+22062,13037,Cambridgeshire
+22069,21173,Schleswig-Holstein
+22073,5089,Cambridgeshire
+22104,4760,Hong Kong Island
+22115,8881,Düsseldorf
+22116,51083,Rhône
+22131,43451,Senica District
+22136,8758,Rheintal
+22144,35612,Provincia di Caserta
+22200,9008,Esch-sur-Alzette
+22215,328162,Mombasa County
+22237,559,Prättigau/Davos
+22242,133481,Krung Thep Maha Nakhon
+22247,8758,Aigle
+22278,59455,Rhondda Cynon Taff
+22279,9443,Central Coast Council
+22291,41397,Zaragoza
+22295,12322,Morbihan
+22296,3269,Provincia di Verona
+22312,8447,Neunkirchen
+22316,15368,Hamburg
+22336,63774,Tokyo
+22340,13045,Niedersachsen
+22376,41103,Devon
+22388,2516,Kanagawa
+22399,17523,Kanagawa
+22402,60323,Szczecin
+22427,8881,Gießen
+22429,24904,Bas-Rhin
+22441,42490,Rzeszów
+22447,5650,Riverside County
+22461,51395,Zug
+22471,9299,Cavite
+22475,61028,Brandenburg
+22479,50825,Praha-západ
+22484,51582,Haskovo Province
+22490,38635,Kanagawa
+22507,12423,Toruń
+22519,198440,Suffolk
+22520,3221,Harju maakond
+22524,15435,Maassluis
+22539,41164,Grimstad
+22542,28859,Zug
+22556,15557,Haute-Garonne
+22558,60294,Giessen
+22585,62099,Praha-východ
+22635,12389,Sankt-Peterburg
+22643,24680,Moscow
+22680,13037,York
+22715,2856,Shropshire
+22759,212655,Surrey
+22788,15510,Nottinghamshire
+22802,14593,Jefferson County
+22817,701,Washington County
+22858,18451,Winnipeg
+22860,577,Lanaudière
+22874,5410,Isere
+22890,206238,Olst-Wijhe
+22899,62290,Città Metropolitana di Milano
+22910,15623,Bülach
+22919,197732,Pyrénées-Atlantiques
+22937,49724,Gorod Groznyy
+22952,2200,Maine-et-Loire
+22980,28760,Ried im Innkreis
+22991,47544,Gdańsk
+23000,8151,Sonora
+23002,2200,Windward Islands
+23085,577,Simcoe County
+23116,4713,Kanagawa
+23127,14593,Coos County
+23133,7922,Hillsborough County
+23165,30962,Düsseldorf
+23172,3215,Ardennes
+23178,41585,Arnsberg
+23185,12414,Ermelo
+23191,34568,Düsseldorf
+23194,56568,Aktau
+23222,39555,Schwaz District
+23232,16019,Brno-město
+23233,1836,Lausanne
+23236,206114,Gävleborgs län
+23248,1136,Raalte
+23268,8311,Zaragoza
+23290,12322,Manche
+23318,200845,Alicante
+23352,1759,Riihimäki
+60034,33915,Enschede
+23367,49981,Westland
+23396,852,Gaspésie–Îles-de-la-Madeleine
+23408,63318,Winnipeg
+53005,33915,Soest
+23580,327821,Plaines Wilhems District
+23581,203641,Seville
+23635,15366,Brandenburg
+23685,3262,Barcelona
+23686,12479,Málaga
+23697,17625,Gujarat
+23719,31633,Odes'ka oblast
+23725,2818,Greater London
+23726,2818,Greater Manchester
+23738,212323,Zürich
+23771,7418,Valparaiso
+23835,44489,Prachatice
+23884,12618,Bydgoszcz
+23886,12322,Nièvre
+23914,16342,Powiat zgierski
+23918,203969,Kreuzlingen
+23928,15969,Poznań
+23937,31673,Alkmaar
+23941,8473,Östergötlands län
+23942,16298,Capelle aan Den IJssel
+24004,206238,Midden-Groningen
+24093,50266,Raalte
+24028,1136,'s-Hertogenbosch
+24032,8881,Sachsen
+24044,9031,Luxembourg
+24089,58243,Sachsen
+24095,15557,Bas-Rhin
+24101,50266,Bergen op Zoom
+24108,50858,Seine-Saint-Denis
+24114,33984,Köln
+24120,198161,Sokolov District
+24128,15435,Hilvarenbeek
+24142,8302,Zürich
+24167,20712,West Sussex
+24196,60294,Mittelfranken
+24221,28768,Isère
+24338,12322,Vienne
+24355,34779,Ptuj
+24365,51048,England
+24368,15435,Krimpen aan Den IJssel
+24371,3209,Mittelfranken
+24385,24592,Barcelona
+24392,200050,Val-de-Marne
+24417,198612,Hallands län
+24432,1136,"Nuenen, Gerwen en Nederwetten"
+24446,201290,Leidschendam-Voorburg
+24472,202463,Sofia City Province
+24480,43957,Wien
+24521,25374,Haskovo Province
+24523,200915,Møre og Romsdal
+24544,8426,Ille-et-Vilaine
+24553,47217,Provincia di Pavia
+24639,11351,Knox County
+24649,1403,Capitale-Nationale
+24665,1136,Meppel
+24742,4764,Latrobe City
+24745,1136,Epe
+24774,39647,Hellendoorn
+24798,327844,Kinondoni
+24811,57033,Boryspil's'kyi district
+24830,50926,Valencia
+24855,3301,Jönköpings län
+24859,9119,Domžale
+24861,8881,Detmold
+24882,202032,Provincia di Como
+24886,35227,Münster
+24893,1653,Stockholms län
+24899,20115,Kent County
+24903,12571,Düsseldorf
+24908,20115,Coos County
+24915,8823,Unterfranken
+1002822,15557,Ille-et-Vilaine
+24927,17506,Tokyo
+24940,14615,York County
+1006166,786,Edinburgh
+24957,204796,Oberpfalz
+24977,15830,Darmstadt
+24988,41653,Val-de-Marne
+25003,3216,Gorod Voronezh
+25011,18419,Yonghe District
+25025,3462,Banqiao District
+52235,7018,Travis County
+25054,42334,Beirut
+25064,24560,Delhi Division
+25069,7922,Windsor County
+25079,4851,Brisbane City
+25103,4771,Auckland
+25137,62227,Greater London
+25148,16300,Krasnoyarsk
+25156,18663,San Joaquin County
+25184,6871,Surrey
+25197,38170,Newcastle City Council
+25200,20011,Cape Winelands District Municipality
+25203,31138,Ulyanovsk
+25206,16591,Wyandotte County
+25208,38220,City of Sydney
+25209,131583,Wellington
+25235,132268,Southland
+25270,47447,Darmstadt
+25283,37100,City of Cape Town Metropolitan Municipality
+25303,198024,Kuopio
+25323,174,Loire-Atlantique
+25329,21161,Stuttgart
+25354,51309,Moskva
+25399,4804,City of Wollongong
+25432,43320,Odes'ka oblast
+25436,21283,Murska Sobota
+25442,1764,Tulln
+25461,1680,Tel Aviv District
+25464,25455,Chisinau
+25508,204410,Weiz
+25605,37100,Bouches-du-Rhône
+1006548,62564,Franklin County
+1006552,38742,Arghandab
+1006553,138322,Kunduz
+1006559,47377,Brabant Wallon
+1006560,49813,Moskva
+1006572,20115,New Haven County
+1006579,3303,Oberaargau District
+1006594,37738,Wilaya de Fes
+1006595,7922,Maryland
+1006604,49600,Madrid
+1006605,8585,Podgorica Municipality
+1006607,11814,Middlesex County
+1006609,138384,Tokyo
+1006611,36352,Dallas County
+1006618,142412,Selangor
+1006619,202613,Province of Cremona
+1006621,207871,Düsseldorf
+1006632,7195,Ciudad de México
+1006643,47236,Gorod Petrozavodsk
+1006655,36352,Erie County
+1006657,41720,Città Metropolitana di Milano
+1006662,7720,New Territories
+1006667,31898,Montréal
+1006681,41230,Greater Manchester
+1006682,151131,Meerut Division
+1006688,1136,Woensdrecht
+52198,397412,Montgomery County
+52202,8758,Schaffhausen
+52257,44030,Kirovsky District
+52266,12400,Petach Tikva
+52273,56622,Zakarpats'ka oblast
+52275,6772,Arlesheim
+52295,39762,Poltavs'ka oblast
+52298,41959,Powiat grodziski
+52301,8708,Municipiu Iaşi
+52307,4713,Chiba
+52312,12605,Freistadt
+52327,202208,Münster
+52338,7922,Weld County
+52344,11090,Anchorage Municipality
+52352,7922,Salt Lake County
+52359,4766,Gyeonggi-do
+52364,12874,Città Metropolitana di Bologna
+52391,7018,Dane County
+52412,64238,Alameda County
+52413,34757,Gorod Novosibirsk
+52416,202870,Provincia di Imperia
+52429,33915,Leidschendam-Voorburg
+52452,11994,Santa Cruz County
+52459,3215,Canton de Sainte-Marie
+52482,199927,Apeldoorn
+52501,8220,Bruxelles
+52516,2860,Cascais
+52518,29518,Blekinge län
+52519,15435,Bloemendaal
+52523,29014,Berlin
+52529,48351,Bucharest
+52554,206238,Leeuwarden
+52560,10143,City of Wyndham
+52570,21283,Postojna
+52593,3215,Morbihan
+52594,133800,Bogor Regency
+52614,9471,Îles du Vent
+52615,701,Howard County
+52639,7922,Clinton County
+52642,4685,Hyogo
+52656,5089,Hartlepool
+52665,3303,Gösgen
+52675,5378,Southend-on-Sea
+52676,12312,Schleswig-Holstein
+52677,208069,Val-de-Marne
+52683,21283,Novo mesto
+52686,51561,Plymouth
+52690,39912,Feldkirchen
+52691,209198,Northumberland
+52699,3301,Stockholm County
+52703,12727,Bas-Rhin
+52704,35710,Tübingen
+52708,202657,Frýdek-Místek
+52709,34762,Oost-Vlaanderen
+52710,48252,Basse-Terre
+52719,5089,North Yorkshire
+52723,49808,Steyr-Land
+52728,41451,Arnsberg
+52746,766,Madrid
+52748,198524,Ljubljana
+52752,1136,Beverwijk
+52773,196655,Helsinki
+52776,48437,Kyivs'ka oblast
+52782,12796,Varna
+52786,60350,Seine-Saint-Denis
+52802,197164,Oberbayern
+52804,16007,Kyiv City
+52805,1221,City of Joondalup
+52811,12759,Köln
+52824,33915,Groningen
+52825,34984,Fatih
+52836,13046,Grad Novi Marof
+52844,4713,Fukushima
+52853,38195,City of Swan
+52856,24164,Tamsui District
+52867,46887,Cook County
+52875,23655,Waikato
+52880,136972,Brisbane City
+52886,54594,Washington County
+1003665,59521,Pijnacker-Nootdorp
+52901,29008,Oberpfalz
+52913,32329,San Francisco County
+52927,49902,Canton de Saint-Denis-3
+52930,23118,Ashe County
+52955,9500,Waikato
+52965,51175,Opole County
+52966,50266,Eindhoven
+52969,200030,Alicante
+52975,34525,Powiat białostocki
+52991,1136,Langedijk
+54115,679,Wien
+52995,3320,Tübingen
+53000,12360,Gießen
+53004,57353,Köln
+53014,9063,Darmstadt
+53016,2568,Saguenay–Lac-Saint-Jean
+53017,202870,Provincia di Padova
+53023,205344,Hauts-de-Seine
+53026,3243,Torres Novas
+53055,209465,Tiranë
+53066,3209,Giessen
+53071,17882,Баянзүрх Дүүрэг
+53073,7922,Dakota County
+53089,3243,Odemira
+53099,136360,Surguja Division
+53100,44946,Düsseldorf
+53107,4766,Seoul
+53111,12389,Gorod Nyagan
+53118,4739,City of Hobart
+53120,49223,Vinnyts'ka oblast
+53134,12808,Darmstadt
+53140,209,Weber County
+53141,9318,Gyeonggi-do
+53162,49469,Gorod Kazan'
+53165,577,Montreal
+53168,7922,Oakland County
+53175,57033,Donets'ka oblast
+53192,2108,Grad Čakovec
+53196,60294,Arnsberg
+53197,39608,Kyiv City
+53198,44377,Općina Goričan
+53206,7018,Kane County
+53207,212127,Corse-du-Sud
+53208,8412,Villach
+53209,208245,Wien
+53220,43507,Litoměřice
+53224,6730,Broye-Vully
+53234,201035,Niedersachsen
+53240,15450,Madrid
+53246,15366,Sachsen-Anhalt
+53249,9205,Donets'ka oblast
+53252,15366,Berlin
+53260,6730,Biel
+53270,21263,Stuttgart
+53273,43619,Essonne
+53288,50158,Gorod Salekhard
+53289,199837,Provincia di Padova
+53294,1403,Laurentides
+53295,31214,Kaliningrad
+53298,47698,Västra Götalands län
+53304,208666,Akko
+53305,10796,Delaware County
+53308,13977,Sagadahoc County
+53323,15547,Conthey
+53325,3301,Värmlands län
+53332,27699,São Bernardo do Campo
+53346,32189,San Antón
+53356,62423,Moskva
+53370,38195,City of Gold Coast
+53382,208725,Vlaams-Brabant
+53387,50277,Genève
+53388,3301,Hallands län
+53398,7922,Lawrence County
+53405,35378,Włocławek
+53411,37002,Canton de la Possession
+53421,30600,Montgomery County
+53429,20115,St. Charles County
+53434,39647,Amsterdam
+53444,15974,Gorod Marks
+53453,15817,Hamburg
+53482,3243,Lamego
+53496,48101,Brighton and Hove
+53499,215699,L'vivs'ka oblast
+53502,2519,Osaka
+53506,15557,Hérault
+53509,33363,Seminole County
+53514,1133,Enschede
+53517,33915,Edam-Volendam
+53520,25273,Luxembourg
+53525,202454,South Yorkshire
+53526,11351,Cumberland County
+53528,12479,Pontevedra
+53530,205620,City of Belgrade
+53533,2860,Amadora
+53536,719,Turku
+53539,31394,Innsbruck
+53550,50467,Bieruń-Lędziny County
+53557,8881,Brandenburg
+53560,3243,Castanheira de Pera
+53569,60258,Baku
+53571,3269,Provincia di Monza e della Brianza
+53585,8193,Toshkent
+53609,28910,Toshkent
+53613,55836,Mandi Division
+53619,49688,Département de Paris
+53636,43533,Toshkent
+53648,208323,Wien
+53654,210278,Provincia di Varese
+53661,2860,Coimbra
+53663,12969,Kópavogsbær
+53683,7922,Collier County
+53698,200144,Hallands län
+53706,1136,Diemen
+53708,34984,Çankaya
+53714,35819,Riyadh Principality
+53718,8473,Kalmar län
+53723,8708,Municipiu Târgu Mureş
+53742,33915,Diemen
+53749,206238,Rijswijk
+53776,207300,Jura
+53791,5617,Powiat pruszkowski
+53792,206404,Tarragona
+53801,12605,Bezirk Wels-Land
+53804,6730,Uster
+53808,25098,Lincolnshire
+53809,5578,Liptovský Mikuláš
+53810,202616,Baden District
+53816,137257,Wellington
+53821,207439,Münster
+53839,12353,Vila do Conde
+53842,203649,Norfolk
+53843,2119,Asker
+53850,203488,Rakovník District
+53865,43915,Bath and North East Somerset
+53869,16347,Bas-Rhin
+53876,38195,City of Melbourne
+53311,3209,Niederbayern
+53898,208687,Devon
+53905,12389,gorod Arkhangelsk
+53908,37002,Saint-Benoît
+53913,20115,Mecosta County
+53925,44334,Hauts-de-Seine
+53950,60999,Beirut
+53952,201123,Ufimsky District
+53953,32890,Morgan County
+53959,44332,Berkshire
+53963,3243,Beja
+53964,47648,Bas-Rhin
+53968,197451,Brno-město
+53969,43148,Gorod Kurgan
+53977,8359,Kirov
+53978,28917,Gorod Fryazino
+53981,701,Chesterfield County
+53983,21079,Wien
+53990,12353,Cantanhede
+53998,1257,Jämtlands län
+54000,12322,Charente-Maritime
+54002,35829,Alameda County
+54007,20676,Düsseldorf
+54019,12322,Var
+54030,2200,Isere
+54031,203315,Dorset
+54043,196742,Svetlogorsky District
+54054,35237,Moskva
+54067,43408,Kent
+54086,15435,Midden-Delfland
+54093,2200,Côte-d'Or
+54098,51728,Helsinki
+54110,38965,Utrecht
+54113,48102,Санкт-Петербург
+54118,30517,Ingham County
+54136,7018,San Diego County
+54137,1797,E
+54142,15142,LaPorte County
+54149,701,Dutchess County
+54151,20115,Maury County
+54154,35224,Heeze-Leende
+54161,11351,Wayne County
+54181,3215,Marne
+54182,174,Fulton County
+54214,11426,Johnston County
+54215,701,Dauphin County
+54226,5089,County Durham
+54228,42668,Sankt-Peterburg
+54239,12496,Southampton
+54246,327849,City of Cape Town Metropolitan Municipality
+54252,7922,Henry County
+54253,201290,Hof van Twente
+54256,6167,Albany County
+54284,396969,Rock Island County
+54286,11232,Minnehaha County
+54300,206238,Emmen
+54305,3215,Haut-Rhin
+54309,205220,Greater London
+54318,44574,England
+54324,701,Monmouth County
+54328,5650,Tuscarawas County
+54350,5466,County Roscommon
+54364,9105,Derby
+54371,12302,Municipiu Botoşani
+54373,137,Provincia di Potenza
+54378,6805,Rheinland-Pfalz
+54384,7018,Cass County
+54393,701,Fairfield County
+54401,5617,Wrocław
+54402,59829,Provincia di Vicenza
+54408,47242,Città Metropolitana di Torino
+54410,7459,Travis County
+54424,199927,Deventer
+54427,6871,South Yorkshire
+54438,208098,Greater London
+54440,18403,Tân Phú
+54441,13037,West Midlands
+54442,13037,Dorset
+54463,59890,Feldkirch
+54467,60294,Karlsruhe
+54473,9471,Windward Islands
+54475,207151,Haut-Rhin
+54480,30782,Kraków
+54482,2843,Östergötlands län
+54500,139002,Newcastle City Council
+54512,57353,Thuringia
+54514,6830,Kielce
+54521,199937,Delft
+54522,1136,Tilburg
+54528,29695,Alver
+54539,19108,Travis County
+54540,11232,Douglas County
+54546,5607,Merseyside
+54550,12714,Gorod Nyagan
+54565,19693,Monroe County
+54604,12605,Amstetten
+54606,12874,Provincia di Varese
+54607,209045,Hafnarfjarðarkaupstaður
+54612,197252,Darmstadt
+54627,34559,Gorod Krasnodar
+54631,210278,Metropolitan City of Milan
+54632,202870,Città metropolitana di Milano
+54634,21351,Canton de Saint-Denis-3
+54635,208927,Arnsberg
+54645,1267,Città Metropolitana di Torino
+54646,3243,Odivelas
+54668,37002,Canton de Saint-Leu
+54687,44291,Odes'ka oblast
+54690,12353,Peso da Régua
+54691,55145,Grafton County
+54697,42346,Arlesheim
+54701,3243,Castelo Branco
+54704,3209,Oberfranken
+54709,20115,San Bernardino County
+54721,3215,Canton de la Possession
+54724,33915,Haarlemmermeer
+54732,10796,Tuscarawas County
+54745,197667,Powiat łukowski
+54746,12389,Gorod Buzuluk
+54747,39568,Toshkent
+54749,24956,Niedersachsen
+54750,2527,Hokkaido
+62838,3215,Canton de Saint-Denis-1
+54766,207642,Département de Paris
+54767,15994,Grad Split
+54777,20886,Cologne
+54779,15108,Lancaster County
+54785,10364,Madison County
+54790,8412,Feldkirch
+54806,3243,Loures
+54831,30600,Huntington County
+54832,51776,Zürich
+54843,3243,Vila Nova de Famalicão
+54854,5089,North Lincolnshire
+54864,20634,Vaduz
+54869,3269,Provincia di Alessandria
+54871,6167,Tulsa County
+54876,12605,Linz-Land
+54891,33915,West Betuwe
+54911,12322,Paris
+54916,12390,East Riding of Yorkshire
+54918,12389,Vsevolozhsky District
+54925,3215,Vosges
+54938,15457,Funchal
+54947,12353,Odivelas
+54955,20115,Madison County
+54967,47524,Altındağ
+54969,8632,Mersch
+54971,60377,Hampshire
+54993,7545,City of Playford
+55001,6128,Suffolk County
+55007,15796,Horgen
+55018,21928,New York County
+55021,8612,Città Metropolitana di Torino
+55023,13037,Leicestershire
+55026,11351,Oneida County
+55032,33915,Gooise Meren
+55039,58340,Rovaniemi
+55043,209137,Provincia di Belluno
+55052,208041,Katowice
+55058,3303,Basel-Stadt
+55060,201220,Città Metropolitana di Milano
+55061,34136,Dnipropetrovs'ka oblast
+55078,26793,Boone County
+55079,25019,Dammam Principality
+55126,8507,Moskva
+55138,8339,Sankt Pölten
+55139,204564,Moskva
+55146,37002,Canton de Saint-Paul-2
+55178,7018,Johnson County
+55198,15081,Madison County
+55200,14371,Beltrami County
+55202,61049,Staffordshire
+55204,2856,Central Bedfordshire
+55209,7018,Plaquemines Parish
+55216,19901,Greene County
+55220,11351,Saratoga County
+55227,3269,Province of Livorno
+55228,39494,Moskva
+55234,15582,Moscow
+55237,42003,الكورة
+55241,42841,Košice I
+55242,7065,Los Angeles County
+55248,719,Helsingfors
+55251,13037,Fife
+1000784,7018,Madison County
+55263,15704,Barcelona
+55267,7545,City of Randwick
+55282,21351,Canton de Saint-Denis-4
+55289,21365,Gorod Biysk
+55290,199636,Département de Paris
+55302,2856,Warwickshire
+55315,13285,England
+55321,25180,Berkshire
+55333,12389,Gorod Murmansk
+55335,11351,Berkshire County
+55342,8330,Greater London
+55343,12119,St. Charles County
+55354,1136,Velsen
+55383,6805,Münster
+55401,29695,Vestland
+55428,37705,Mahdia
+55447,3269,Provincia di Arezzo
+55452,12400,Tel Aviv District
+55454,42689,Hampshire
+55466,8468,Somerset
+55484,209,Santa Fe County
+55494,17511,Osaka
+1005190,701,Bristol County
+55506,208332,Loon op Zand
+55511,2856,North Somerset
+55514,398065,Alameda County
+55515,133189,Brisbane City
+55516,28669,Pindamonhangaba
+55524,7018,St. Louis County
+55525,16082,Highland Council
+55532,21040,Wil
+55533,5432,West-Vlaanderen
+55550,56329,England
+55558,37002,Canton de Saint-Pierre-1
+55564,266475,Rio Branco
+55566,209987,Ente di decentramento regionale di Udine
+55584,42087,Norilsk urban okrug
+55591,16527,Comal County
+55593,16019,Hlavní město Praha
+55597,8359,Moskva
+55630,7018,Caddo Parish
+55640,31841,Mercer County
+55642,205976,Hamar Municipality
+55643,3215,Puy-de-Dôme
+55646,1267,Città Metropolitana di Milano
+55653,6848,Brabant Flamand
+55661,3352,Salamanca
+55685,4764,Town of Victoria Park
+55686,51561,Wiltshire
+55710,577,Outaouais
+55713,41998,Stuttgart
+55717,20115,Tolland County
+55718,200906,Mayenne
+55731,21479,Gorod Shakhty
+55734,10947,Dawes County
+55735,34979,Essex
+55737,56030,Otago
+55739,12874,Provincia di Alessandria
+55752,12083,Clinton County
+55757,3243,Maia
+55759,23089,Miami-Dade County
+55761,701,Spotsylvania County
+55772,22773,Cuyahoga County
+55778,55577,Telangana
+55785,57552,Gorod Gorno-Altaysk
+55786,20712,Greater Manchester
+55792,35612,Provincia del Verbano-Cusio-Ossola
+55794,60470,Vsevolozhsky District
+55795,15480,Voorst
+55797,6856,Gorod Voronezh
+55806,134090,Northern Grampians Shire
+55822,200460,Västerbottens län
+55823,6730,District de Bienne
+55833,7018,Missouri
+55842,399898,Webster County
+55844,3399,Stockholms län
+55863,7922,Solano County
+60006,12044,Marion County
+60032,200845,Valencia
+60057,50266,Woerden
+60058,7713,Kabupaten Banyuwangi
+60075,57908,Karadah
+60091,8400,Град Београд
+60105,5645,Waterloo Regional Municipality
+60116,11123,San Bernardino County
+60123,1853,Villach
+60131,21277,Duhok
+60135,12430,Las Palmas
+60163,37529,Evinayong
+60170,37002,Canton de Saint-Louis-2
+60184,396440,Montgomery County
+60187,1257,Saare County
+60200,31615,Voorst
+60214,8339,Gänserndorf
+60220,5391,Grad Mali Lošinj
+60223,23674,Islamabad
+60234,14593,Weld County
+60236,13030,Plessur
+60243,24722,Sughd Province
+60252,13037,Borough of Halton
+60261,37002,Canton de Saint-André-1
+60262,29075,Département de Paris
+60274,210752,Darmstadt
+60279,137074,Davao del Sur
+60298,57633,Tarn
+60315,16333,Centar
+60318,3215,Canton de Saint-Paul-3
+60319,60273,Girona
+60323,14593,Unterfranken
+60340,786,Aberdeen City
+60345,50266,Midden-Groningen
+60370,4181,Iredell County
+60385,8447,Bezirk Spittal an der Drau
+60393,55821,Cebu
+60397,7922,Tuolumne County
+60404,31705,Darmstadt
+60407,20115,Virginia
+60421,57370,Lavaux-Oron
+60425,45131,Wellington
+60434,9299,Rizal
+60435,21928,Cook County
+60446,33915,Heusden
+60453,7018,Franklin County
+60462,23473,Champaign County
+60464,12540,Las Palmas
+60476,11814,Toronto
+60490,3663,Marinette County
+60500,833,Hillsborough County
+60510,14593,Ottawa
+60511,11426,Cabarrus County
+60517,3301,Östergötlands län
+60524,7018,Waukesha County
+60528,41230,South Yorkshire
+60534,10796,Hamilton County
+60546,23944,Kalakhang Maynila
+60556,12312,Stuttgart
+60560,45754,Metro Manila
+60562,48141,Municipiu Arad
+60583,33763,Lusaka
+60587,7922,Allegheny County
+60589,209910,Murcia
+60598,27651,Malleco
+60601,15557,Haut-Rhin
+60602,202296,Västernorrlands län
+60612,577,Saguenay–Lac-Saint-Jean
+60622,207894,De Friese Meren
+60624,3215,Tarn
+60635,15557,Seine-et-Marne
+60637,3215,Somme
+60661,13172,Sofia City Province
+60664,41937,Grad Beograd
+60676,22413,Craighead County
+60690,12601,Département de Paris
+60691,20904,Tampere
+60692,12322,Gers
+60704,12735,Altındağ
+60711,134707,Laguna
+60730,15557,Haute-Vienne
+60741,205580,Pontevedra
+60748,5089,Bristol City
+60750,41273,Diekirch
+60751,6871,"Armagh City, Banbridge and Craigavon"
+60764,38195,City of Whittlesea
+60770,33588,Logan County
+60773,701,Burlington County
+60790,2856,Ards and North Down
+60795,8473,Västmanlands län
+60799,56478,Bristol City
+60814,50266,Beverwijk
+60817,15435,Vlissingen
+60821,12969,Mosfellsbær
+60822,21928,Clark County
+60829,8151,Nuevo León
+60832,4775,Metro Manila
+60840,3215,Canton de Baie-Mahault-2
+60841,6810,Be'er Sheva
+60850,327875,Kinshasa
+60855,9044,Bern-Mittelland District
+60858,57356,Plymouth
+60865,2516,Hokkaido
+60872,29974,Grey County
+60886,20115,Knox County
+60888,13335,Montgomery County
+60895,35244,Niedersachsen
+60910,11351,Tompkins County
+60914,2856,East Sussex
+60917,34087,Malvik
+60922,20880,Brandenburg
+60928,327687,Kampala
+60929,14593,Santa Cruz County
+60954,6805,Mittelfranken
+60976,5410,Loiret
+60983,3243,Vila Franca de Xira
+60994,35071,Northern Ireland
+60998,702,Berkshire
+61001,328749,Ekurhuleni Metropolitan Municipality
+61017,7018,Miami-Dade County
+61019,3262,Gipuzkoa
+61020,2856,Belfast
+61022,59702,Stockholms län
+61048,14434,Cruz Bay
+61052,207026,Barcelona
+61056,27901,Marga Marga
+61060,134090,City of Stirling
+61070,8820,Saarland
+61071,1136,Voorst
+61081,14593,Carteret County
+61085,7545,City of Melbourne
+61093,399105,Montérégie
+61097,17552,อำเภอเมืองสุราษฎร์ธานี
+61107,2027,Moselle
+61115,8473,Västra Götaland County
+61122,29244,Sofia City Province
+61124,43065,Gävleborgs län
+61128,12400,Jerusalem District
+61136,399242,Alameda County
+61138,21928,Adams County
+61143,2119,Agder
+61145,22646,Beaufort County
+61146,131149,Banqiao District
+61151,3243,Sintra
+61153,198440,Greater London
+61163,3215,Ariège
+61164,25310,Greater London
+61166,397097,Cumberland County
+61168,3462,信義鄉
+61182,58007,Greater London
+61183,201983,Blekinge County
+61191,210958,Pardubice
+61200,38856,Neihu District
+61201,56882,La Rioja
+61204,24637,Darmstadt
+61224,47377,Antwerpen
+61225,134697,Council of the City of Sydney
+61246,19331,Putnam County
+61248,4764,Georges River Council
+61269,32133,Albemarle County
+61275,9050,Cristian
+61283,34779,Domžale
+61288,201636,Rhône
+61292,11776,Allegany County
+61295,22561,St. Charles County
+61299,2027,Drôme
+61304,3462,Neihu District
+61305,64134,Los Hidalgos
+61313,21413,Saxony
+61317,328826,City of Johannesburg Metropolitan Municipality
+61318,7922,Utah County
+61321,15751,County Dublin
+61328,18126,Aichi
+61331,1128,Delft
+61344,16086,Pori
+61345,11492,Sandoval County
+61354,23630,Aichi
+61357,3352,Asturias
+61364,5378,West Yorkshire
+61373,34572,Pyrénées-Atlantiques
+61378,12601,Hauts-de-Seine
+61382,701,District of Columbia
+61391,2519,Tokyo
+61395,134090,City of Kingston
+61398,62141,Rhône
+61410,209,El Paso County
+61421,32953,Greene County
+61424,55392,Ehime
+61432,33915,Heerhugowaard
+61438,37282,Krowor Municipal
+61451,8412,Hollabrunn
+61467,7018,Monterey County
+61469,9930,Federal Territory of Kuala Lumpur
+61476,6739,La Rioja
+61504,139623,City of Mitcham
+61511,198213,Idrija
+61513,43205,Plovdiv
+61520,31543,Landeck
+61528,3737,Schuylkill County
+61529,5466,County Tipperary
+61540,329124,Sarah Baartman District Municipality
+61545,47689,King County
+61547,3352,Toledo
+61548,400846,Sedgwick County
+61555,11427,Bastrop County
+61584,35540,Rhône
+61588,13855,Black Hawk County
+61594,48863,Røros
+61606,15547,Sierre District
+61613,213281,Detmold
+61617,270073,Maracaibo
+61643,50343,Haarlem
+61655,204281,Sofia City Province
+61658,57265,Nord
+61662,42369,Alpes-Maritimes
+61667,37002,Saint-Paul
+61682,200599,Sachsen
+61687,203511,Osmangazi
+61704,7922,Sachsen
+61706,328760,Nelson Mandela Bay Metropolitan Municipality
+61710,35706,Östergötlands län
+61711,206912,Limassol
+61721,51519,Skåne län
+61724,12355,Münster
+61750,57344,Sofia City Province
+61758,15704,A Coruña
+61760,6848,Brussel
+61785,21928,Dakota County
+61790,42555,Sofia City Province
+61805,577,Regional Municipality of Halton
+61811,62336,Oberbayern
+61830,7418,Cordillera
+61840,12083,Montgomery County
+61841,42405,Oraş Pantelimon
+61844,134697,Australian Capital Territory
+61861,8680,Saint-Pierre-Port
+61863,25019,Hail Principality
+61866,11426,Wayne County
+61881,37721,Sud-Comoé
+61903,10143,City of Playford
+61914,3215,Canton de Saint-Denis-3
+61916,7922,Cobb County
+61918,21277,Sulaymaniyah
+61934,12390,Kingston upon Hull
+61936,205175,Burgas
+61937,2856,Aberdeen City
+61938,30640,Santa Cruz County
+61939,134697,Mount Barker District Council
+61941,64315,Kota Jakarta Selatan
+61949,212655,Gloucestershire
+61972,61461,Mara
+61983,34863,Somme
+61985,3215,Lozère
+61990,37239,Ekurhuleni Metropolitan Municipality
+61999,15401,Rhône
+62002,16202,Sachsen
+62005,35548,Darmstadt
+62025,701,Putnam County
+62063,9443,City of Casey
+62065,44314,Greater London
+62069,55836,Bangalore Division
+62070,24786,Oberbayern
+62081,15502,County Kildare
+62083,14593,Adams County
+62096,210793,Oberbayern
+62125,21351,Canton de Saint-André-3
+62130,2856,East Dunbartonshire Council
+62134,132021,Romblon
+62138,6871,Highland Council
+62140,12392,Brussel
+62142,206125,Kaustinen
+62148,57752,Yvelines
+62151,37239,City of Tshwane Metropolitan Municipality
+62158,22773,Santa Barbara County
+62159,36925,Tangier-Assilah
+62166,3303,Sense
+62168,812,Metro Vancouver
+62174,6871,Norfolk
+62185,53449,Cleveland County
+62193,208864,Kaag en Braassem
+62223,1136,Horst aan de Maas
+62224,38264,Lahore
+62231,397332,Skagit County
+62234,38195,Yarra City
+62240,7922,Merrimack County
+62241,3215,Pyrénées-Atlantiques
+62256,36545,Sequatchie County
+62257,29283,Seine-Saint-Denis
+62265,23423,Utah County
+62268,9824,Kanagawa
+62281,680,Berlin
+62296,200519,Darmstadt
+62301,205241,Lleida
+62308,204471,Provincia di Gorizia
+1003553,8585,Glavni grad Podgorica
+62316,73,King County
+62325,60171,Barcelona
+62326,4713,Chiisagata District
+62341,9031,Hainaut
+62342,6167,Middlesex County
+62356,12611,Upper Palatinate
+62358,5650,Pasco County
+62364,50920,Braunau am Inn
+62372,6730,Moutier
+62375,35223,Werdenberg District
+62378,25019,Riyadh Principality
+62382,6167,Kendall County
+62386,8473,Uppsala län
+62390,14593,Capital
+62401,62336,Darmstadt
+62406,10796,Milwaukee County
+62435,37002,Canton du Port
+62454,852,Thompson-Nicola
+62460,22773,Virginia
+62464,206238,Zwolle
+62475,37721,Ayawaso East Municipal
+62490,19165,Cook County
+62499,62080,Madrid
+62515,139049,New South Wales
+62529,211147,Tiranë
+62550,327822,Central Karoo District Municipality
+62555,20412,Lyon County
+62562,13124,Sofia City Province
+62565,49584,Yvelines
+62599,11138,Burleigh County
+62617,29979,Aroostook County
+62621,2027,Seine-et-Marne
+62628,1136,Noordoostpolder
+62633,13037,Hertfordshire
+62635,8220,Greater London
+62638,28933,Zagorje ob Savi
+1000219,59554,Midden-Groningen
+1000221,8251,Plzeň-City District
+1000222,20860,Berkshire
+1000232,44806,Vlaams-Brabant
+1000276,31246,Brno-City District
+1000281,3213,Scotland
+1000285,57558,Provincia di Potenza
+1000291,6134,Los Angeles County
+1000321,12850,Città Metropolitana di Milano
+1000331,134697,City of Canterbury-Bankstown
+1000333,3912,Doña Ana County
+1000336,8820,Darmstadt
+1000338,8660,Provincia di Pavia
+1000342,23661,Tokyo
+1000346,51092,Sankt-Peterburg
+1000359,51167,Darmstadt
+1000360,39399,Chernivets'ka oblast
+1000377,34182,Winterthur
+1000387,203488,Rakovník
+1000390,5089,Cheshire East
+1000431,2860,Lisbon
+1000440,50242,Levoča
+1000458,18209,Telangana
+1000481,135377,Kowloon
+1000487,3215,Mayenne
+1000503,6730,Nyon
+1000505,13030,Nyon
+1000515,13830,Dallas County
+1000518,56876,Darmstadt
+1000523,56876,Dallas County
+1000533,202113,Karlsruhe
+1000536,212023,Plovdiv
+1000555,15962,Bratislava III
+1000566,16509,Darmstadt
+1000590,33883,Mělník
+1000597,213151,Darmstadt
+1000618,206228,Graz
+1000621,577,Nord
+1000628,22773,Alachua County
+1000632,50266,Geldrop-Mierlo
+1000644,16509,Tel Aviv District
+1000654,8447,Sankt Pölten
+1000676,206238,Gennep
+1000679,20857,Leiden
+1000689,16276,Konkan Division
+1000701,63949,New York County
+1000708,16509,Southern Governorate
+1000709,16509,São Paulo
+1000725,20712,Bath and North East Somerset
+1000731,3816,Medellín
+1000734,21859,Zone 02
+1000737,8708,Feleacu
+1000739,203520,Berlin
+1000742,13489,Medellín
+1000747,39503,Sankt-Peterburg
+1000796,5089,Bath and North East Somerset
+1000808,31898,Santiago
+1000812,44489,Brno-Country District
+1000817,55391,Kanagawa
+1000852,41722,Sankt-Peterburg
+1000860,12389,Leningradskaya oblast'
+1000869,43232,Rečycki rajon
+1000890,44923,Sankt-Peterburg
+1000916,213230,Loudoun County
+1000919,12389,Gorod Korolev
+1000930,134090,City of Hobart
+1000944,39767,Greater London
+1000954,201281,Hérault
+1000957,201281,Moselle
+1000963,12389,Yekaterinburg
+1000968,396878,Clay County
+1000972,11183,Iowa County
+1000979,31898,Konkan Division
+1000983,205790,Berlin
+1001115,1136,Delft
+1001132,3303,Bülach
+1001133,14061,Greater London
+1001139,43380,Kyiv City
+1001217,133159,City of Sydney
+1001299,20473,Ciudad de México
+1001322,8075,Amsterdam
+1001347,59689,Val-de-Marne
+1001404,8220,Darmstadt
+1001421,36947,Souk Ahras
+1001429,29169,Département de Paris
+1001439,20953,Government of Amsterdam
+1001441,12307,Zürich
+1001463,133481,Mueang Nonthaburi District
+1001479,9498,Jabalpur Division
+1001488,5563,Yekaterinburg
+1001496,210025,Sandefjord
+1001501,3269,Provincia di Piacenza
+1001502,210025,Tokyo
+1001520,328365,Frances Baard District Municipality
+1001530,30722,Provincia di Potenza
+1001552,31898,Maricopa County
+1001586,197892,Powiat nowotomyski
+1001592,3269,Provincia di Caserta
+1001599,210104,Powiat miński
+1001600,62809,Tuolumne County
+1001601,51265,Leibnitz
+1001602,49808,Gmunden
+1001612,12322,Mayenne
+1001643,212655,Kent
+1001649,45758,Krung Thep Maha Nakhon
+1001738,24921,Viesati parish
+1001751,3303,Mendrisio
+1001769,57294,Jeseník
+1001780,47583,Vilniaus apskritis
+1001782,47583,Greater Manchester
+1001783,47583,Meppel
+1001793,577,Renfrew County
+1001816,20001,Honolulu County
+1001877,20473,Chiba
+1001881,15435,Ooststellingwerf
+1002005,47583,Apeldoorn
+1002019,5078,Custer County
+1002023,134351,Tokyo
+1002027,28753,Darmstadt
+1002028,7203,Santa Clara County
+1002029,395954,Los Angeles County
+1002032,396362,Middlesex County
+1002033,27411,DuPage County
+1002034,394380,Dallas County
+1002035,393886,Miami-Dade County
+1002036,30633,Prince William County
+1002037,136988,City of Sydney
+1002051,40994,Wien
+1002071,8560,Schwaben
+1002084,63473,New York County
+1002085,63473,Greater London
+1002094,42730,Tübingen
+1002096,31115,Provincia di Brescia
+1002097,206264,Dronten
+1002099,47583,Vilnius City Municipality
+1002103,2722,Spartanburg County
+1002133,15600,Zürich
+1002134,49855,Bremen
+1002176,25513,Verkhneuslonsky District
+1002192,210278,Provincia di Benevento
+1002205,208563,Helsinki
+1002211,51132,Västernorrlands län
+1002220,11404,Placer County
+1002230,4901,District of Columbia
+1002245,11402,Mecklenburg County
+1002246,6752,Escaldes-Engordany
+1002256,198203,Alblasserdam
+1002259,9009,Vlaams-Brabant
+1002277,9304,New Territories
+1002282,31898,Darmstadt
+1002288,4780,Longtan District
+1002290,200272,Częstochowa
+1002359,31898,Telangana
+1002399,60016,March
+1002405,39637,Lingewaard
+1002406,39637,Government of Amsterdam
+1002462,6805,Niedersachsen
+1002465,212815,Yvelines
+1002468,1136,Assen
+1002483,3243,Cascais
+1002485,44489,Tábor
+1002500,16202,Sachsen-Anhalt
+1002504,852,Sunshine Coast Regional District
+1002505,11260,Sunshine Coast Regional District
+1002522,206067,Somerset
+1002527,39563,Government of Amsterdam
+1002532,7922,Butte County
+1002538,22773,Tulsa County
+1002558,38195,Municipality of Lane Cove
+1002564,5378,Glasgow City
+1002591,6167,Maricopa County
+1002598,210374,Porto
+1002611,21260,Cambridgeshire
+1002616,16509,County Dublin
+1002619,16509,Seoul
+1002626,22773,San Diego County
+1002651,31898,Dietikon
+1007477,35916,Los Angeles County
+1002690,31898,Loudoun County
+1002713,57935,Fatih
+1002718,206271,Pendik
+1002732,9121,Adapazarı
+1002754,3491,Xinyi District
+1002755,44002,Praha-západ
+1002766,22773,Pima County
+1002775,11776,Cuyahoga County
+1002776,42841,Košice III
+1002792,29505,Schleswig-Holstein
+1002793,62538,Bexar County
+1002799,12488,Maricopa County
+1002804,13285,West Sussex
+1002814,206238,Voorschoten
+1002841,3491,Krung Thep Maha Nakhon
+1002857,201701,Arnsberg
+1002878,202613,Provincia di Cremona
+1002893,7029,Mason County
+1002908,1257,Skåne län
+1002912,16202,Hamburg
+1002930,57049,Ivano-Frankivs'ka oblast
+1002933,4764,City of Swan
+1002935,209700,Goychay
+1002938,15704,Gipuzkoa
+1002968,3215,Loiret
+1003036,2860,Abrantes
+1003040,21928,Morris County
+1003045,49920,Seine-Saint-Denis
+1003060,53667,Miersch
+1003088,12876,Amsterdam
+1003099,206813,Berlin
+1003102,3269,Città Metropolitana di Napoli
+1003130,35540,Haute-Garonne
+1003142,11317,Jackson County
+1003172,394625,Travis County
+1003184,14383,Loudoun County
+1003188,20473,Los Angeles County
+1003190,20473,Miami-Dade County
+1003191,20473,New York County
+1003193,63949,Dallas County
+1003197,34093,Vsetín District
+1003249,265551,Jalisco
+1003252,60294,Kassel
+1003257,50825,Benešov District
+1003274,208814,Darmstadt
+1003302,31143,Minski rajon
+1003334,31898,Jerusalem District
+1003335,207992,Rhône
+1003342,8560,Berlin
+1003345,35540,Ain
+1003374,16509,Stockholms län
+1003375,16509,Département de Paris
+1003376,16509,Città Metropolitana di Milano
+1003380,16509,Osaka
+1003383,16509,City of Sydney
+1003384,16509,Tokyo
+1003385,14618,Loudoun County
+1003386,16509,Franklin County
+1003387,16509,San Francisco County
+1003388,16509,Morrow County
+1003396,51401,Sachsen
+1003402,8251,Praha-východ
+1003418,203924,Münster
+1003420,199839,West-Vlaanderen
+1003422,24940,Gießen
+1003427,14061,Amsterdam
+1003432,209,Los Alamos County
+1003451,24723,Warszawa
+1003453,24724,Warszawa
+1003462,31898,Melton City
+1003465,5610,Strakonice
+1003468,16019,Znojmo
+1003472,9031,Waals-Brabant
+1003479,202613,Provincia di Ferrara
+1003484,21859,Los Angeles County
+1003500,6697,Grodzenski rajon
+1003519,3269,Provincia di Chieti
+1003524,47583,Maricopa County
+1003525,203596,Loire-Atlantique
+1003554,47583,Osasco
+1003572,11404,Contra Costa County
+1003574,36549,George Town
+1003575,44489,České Budějovice District
+1003588,34915,Municipiu Piteşti
+1003616,16803,Sarasota County
+1003640,30600,Kent County
+1003644,15600,Bern-Mittelland District
+1003648,20473,Middlesex County
+1003664,50512,Barnaul
+1003687,43030,Dushanbe
+1003698,35133,Amsterdam
+1003708,50266,Amsterdam
+1003709,61138,City of Johannesburg Metropolitan Municipality
+1003718,60068,Darmstadt
+1003733,6167,McHenry County
+1007228,3320,Niedersachsen
+1003744,29028,Amsterdam
+1003747,206238,Rotterdam
+1003748,15962,Nové Zámky
+1003749,6830,Bratislava I
+1003751,31898,Chiba
+1003752,19527,Klickitat County
+1003765,15600,Lebern
+1003767,15600,Nidwalden
+1003784,6306,Girardot
+1003790,21599,Las Tablas
+1003793,5610,Pelhřimov
+1003800,8560,Barcelona
+1003816,2852,Jihlava
+1003829,18747,Panamá
+1003835,202870,Provincia di Ravenna
+1003836,15600,Kulm
+1003838,15600,Aarau
+1003842,15600,Imboden District
+1003845,20986,Hauts-de-Seine
+1003846,15600,Brig
+1003853,20057,Columbia County
+1003862,38182,Selangor
+1003881,63949,Fulton County
+1003887,14061,Buckinghamshire
+1003888,20473,Madrid
+1003889,14061,Hudson County
+1003890,20473,Seine-Saint-Denis
+1003895,63949,Tokyo
+1003897,20473,Warszawa
+1003900,33915,Zaanstad
+1003904,15600,Olten
+1003910,58061,Amsterdam
+1003911,3215,Puy-de-Dome
+1003914,200735,Arnsberg
+1003923,13036,Mělník
+1003940,31898,Santa Clara County
+1003950,7018,Mobile County
+1003956,203380,Sofia City Province
+1004003,51744,Hlavní město Praha
+1004016,8860,Sofia Province
+1004024,61317,City of Johannesburg Metropolitan Municipality
+1004025,35540,Bouches-du-Rhône
+1004029,20473,Toronto
+1004030,63949,Toronto
+1004036,59432,Madrid
+1004037,202053,Madrid
+1004039,24940,Helsingfors
+1004040,202053,Greater London
+1004042,12876,Département de Paris
+1004044,35661,Département de Paris
+1004045,202422,Tel Aviv District
+1004046,132335,Pune Division
+1004052,43927,Haarlem
+1004054,202053,Warszawa
+1004056,202422,Warsaw
+1004057,203020,Lisboa
+1004060,50867,Moskva
+1004068,43927,Greater London
+1004069,47987,Kyiv City
+1004076,7203,Sacramento County
+1004079,61317,Cook County
+1004088,208315,Schärding
+1004089,559,Ouest Lausannois District
+1004090,205684,Département de Paris
+1004116,3737,Lancaster County
+1004123,16794,Lancaster County
+1004125,149791,中山區
+1004127,18049,埔里鎮
+1004156,42669,Provincia di Biella
+1004164,38919,Houten
+1004167,55393,Barcelona
+1004171,18049,Central District
+1004197,63949,Morris County
+1004200,3352,Las Palmas
+1004215,203493,Gorod Kemerovo
+1004220,42306,Náchod
+1004232,14593,Columbia County
+1004236,18747,Chame
+1004237,49163,Amstetten
+1004238,20712,Brighton and Hove
+1004242,4764,North Sydney Council
+1004248,16276,Montréal
+1004250,11404,King County
+1004264,132203,Krung Thep Maha Nakhon
+1004267,132203,São Paulo
+1004277,132203,Hong Kong Island
+1004279,52468,Distrito de David
+1004280,265867,Colón District
+1004285,52468,Santiago
+1004286,52468,Colón
+1004288,132203,Simcoe County
+1004292,132203,Tokyo
+1004293,132203,Darmstadt
+1004294,132203,Konkan Division
+1004295,132203,Loudoun County
+1004297,27796,Panama
+1004305,262248,Panamá
+1004311,132203,Los Angeles County
+1004344,15435,IJsselstein
+1004368,8075,Osaka
+1004370,8075,Cardiff
+1004372,8075,Capitale-Nationale
+1004374,8075,Rappahannock County
+1004375,8075,Tamil Nadu
+1004377,8075,King County
+1004379,8075,City of Melbourne
+1004380,8075,Laramie County
+1004411,8075,Maricopa County
+1004414,8075,County Dublin
+1004415,8075,Stockholms län
+1004416,8075,Greater London
+1004418,8075,Polk County
+1004419,8075,Pune Division
+1004420,8075,Hong Kong Island
+1004421,8075,Seoul
+1004422,8075,Département de Paris
+1004423,8075,Darmstadt
+1004424,8075,Oslo Municipality
+1004425,8075,Zürich
+1004427,3269,Ente di decentramento regionale di Udine
+1004429,8075,City of Johannesburg Metropolitan Municipality
+1004430,8075,Tokyo
+1004431,8075,Toronto
+1004452,1221,Australian Capital Territory
+1004467,15435,Voorst
+1004474,2527,Ibaraki
+1004493,20115,Tarrant County
+1004494,19108,Stone County
+1004499,209836,Tehran
+1004519,59474,Unterfranken
+1004526,210278,Provincia di Ferrara
+1004546,59702,Västra Götaland County
+1004562,209090,Gironde
+1004566,19844,Duval County
+1004579,16276,Darmstadt
+1004582,50716,Ulyanovsk
+1004634,204997,Moskva
+1004635,51219,Moskva
+1004636,201863,Tuzla
+1004666,13649,Wake County
+1004668,53698,Mecklenburg County
+1004672,33363,Brevard County
+1004673,16509,Dubai
+1004674,21100,Meppel
+1004676,31898,Province of Pavia
+1004691,5410,Charente-Maritime
+1004695,7018,Colorado County
+33992,8881,Freiburg
+1004772,7018,Dorchester County
+1004782,15894,Freiburg
+1004788,33915,Haarlem
+1004791,13335,Da’an District
+1004796,18809,Distrito de David
+1004824,211859,Altındağ
+1004841,41966,Powiat warszawski zachodni
+1004864,41720,Provincia di Cremona
+1004865,396982,Charleston County
+1004876,14593,Provincia di Pavia
+1004879,203593,Arnsberg
+1004907,39912,Wien
+1004908,197706,Tiranë
+1004909,33943,Kladno District
+1004925,48927,Darmstadt
+1004926,198288,Werdenberg
+1004932,3215,Haute-Vienne
+1004935,23428,Virginia
+1004941,198282,Kladno
+1004963,20473,Fulton County
+1004969,6057,Departamento de Rocha
+1004973,8447,Sankt Pölten-Land District
+1004979,8151,Michoacán
+1004981,202613,Città Metropolitana di Genova
+1004986,16509,Zürich
+1004988,47110,Hlavní město Praha
+1004990,29317,Unterfranken
+1005004,16509,City of Melbourne
+1005006,6823,Çankaya
+1005018,31898,Bouches-du-Rhône
+1005019,20473,Haarlem
+1005020,16509,Telangana
+1005021,8151,Guanajuato
+1005042,38919,Diemen
+1005047,16276,Toronto
+1005049,205747,Neuchâtel
+1005065,204778,Dorset
+1005069,210423,Pontevedra
+1005076,15704,Madrid
+1005101,12389,Tomsk
+1005107,20712,Northamptonshire
+1005111,57118,Zürich
+1005127,6079,Norfolk County
+1005139,20115,Mineral County
+1005149,3352,Lleida
+1005213,6730,Luzern-Land
+1005219,3243,Porto
+1005225,1136,Huizen
+1005226,15435,Reimerswaal
+1005229,31898,Government of Amsterdam
+1005239,34927,Alameda County
+1005240,202870,Provincia di Lecco
+1005254,58130,Rimavská Sobota
+1005255,29447,Provincia di Chieti
+1005259,35470,Amsterdam
+1005269,15366,Saxony-Anhalt
+1005282,12876,Val-d'Oise
+1005316,1136,Halderberge
+1005337,9658,Metro Manila
+1005368,31242,Kraków
+1005371,26832,Toronto
+1005383,50266,Hellendoorn
+1005408,5610,Ostrava-město
+1005410,12874,Province of Bergamo
+1005424,60822,Provincia di Ancona
+1005433,202870,Provincia di Pesaro e Urbino
+1005450,21928,East Feliciana Parish
+1005457,2915,Saitama
+1005497,20015,Santiago
+1005500,263784,Santiago
+1005512,12338,A Coruña
+1005514,12874,Provincia di Parma
+1005523,50266,Rhenen
+1005538,47583,Département de Paris
+1005540,47583,Paris
+1005578,3215,Oise
+1005579,7018,Canadian County
+1000263,31898,Amsterdam
+1005586,63949,DeKalb County
+1005589,63949,Greater London
+1005590,63949,Chiba
+1005596,131445,Krung Thep Maha Nakhon
+1005598,30722,Città metropolitana di Milano
+1005609,3491,Hong Kong Island
+1005614,24309,Bangalore Division
+1005616,209,Denver County
+1005620,47301,Warszawa
+1005650,8612,Free municipal consortium of Syracuse
+1005654,44066,Kassel
+1005661,20473,Osasco
+1005674,31229,Warszawa
+1005691,3269,Provincia di Pavia
+1005710,17511,Wakayama
+1005711,2519,Iwate
+1005720,16509,Santa Clara County
+1005729,18081,Nara
+1005737,45102,Dubai
+1005745,45102,Darmstadt
+1005748,35540,Meurthe-et-Moselle
+1005753,3209,Unterfranken
+1005776,3301,Skåne län
+1005789,59895,Greater London
+1005796,33915,Hillegom
+1005814,15490,Greater Manchester
+1005815,14061,San Francisco County
+1005819,7922,Cherokee County
+1005824,13036,Praha-východ
+1005829,212317,Washington County
+1005833,32133,Arapahoe County
+1005835,6730,Neuchâtel
+1005837,3269,Città Metropolitana di Torino
+1005875,8402,Gorod Yaroslavl'
+1005876,42160,West Flanders
+1005878,12843,Karlsruhe
+1005904,8445,Vöcklabruck District
+62423,3209,Kassel
+1001365,30764,Hlavní město Praha
+1005915,5610,Havlíčkův Brod District
+1005925,33339,Williams County
+1005958,4766,Gyeongsangbuk-do
+1005991,12322,Puy-de-Dôme
+1006002,63797,Ibaraki
+1006012,17506,Ehime
+1006013,198292,Provincia di Pesaro e Urbino
+1006014,34554,Pfäffikon District
+1006027,3269,Provincia di Perugia
+1006036,58243,Oberbayern
+1006038,57269,Bizkaia
+1006046,202870,Provincia di Perugia
+1006048,18792,Cobb County
+1006059,203201,Province of Perugia
+1006070,2518,Ehime
+1006071,3269,Provincia di Rimini
+1006084,4764,Greater Geelong City
+1006088,23944,Davao del Sur
+1006097,23944,Cebu
+1006098,10143,City of Perth
+1006102,263781,Guatemala
+1006105,1136,De Ronde Venen
+1006108,198292,Province of Pesaro and Urbino
+1006119,137409,Tokyo
+1006124,1136,Venray
+1006128,202613,Province of Pavia
+1006132,206904,Moskva
+1006145,5410,Somme
+1006150,13113,Provincia di Cuneo
+1006156,50266,Den Haag
+1006161,5410,Var
+1006177,34093,Ostrava-město
+1006179,4538,北京市
+1006197,398721,Chaudière-Appalaches
+1006204,216071,Amsterdam
+1006212,14522,Cantón Ambato
+1006213,212772,Darmstadt
+1006219,202613,Provincia autonoma di Trento
+1006223,20115,Sherburne County
+1006228,1257,Tartu maakond
+1006233,992,Durham County
+1006258,3209,Cologne
+1006261,44486,Kassel
+1006270,42610,Lyuberetsky District
+1006276,20655,Moskva
+1006289,210644,Stockholms län
+1006058,16276,Département de Paris
+1006293,19529,Philadelphia County
+1006300,21928,Dare County
+1006310,60362,Seine-Saint-Denis
+1006311,8881,Lower Franconia
+1006319,13213,Tokyo
+1006345,210756,Yekaterinburg
+1006351,210756,Sankt-Peterburg
+1006352,210756,Gorod Novosibirsk
+1006353,210756,Moskva
+1006356,210756,Gorod Khabarovsk
+1006357,202870,Metropolitan City of Rome Capital
+1006359,8447,Graz-Umgebung
+1006365,3215,Canton de Saint-Denis-2
+1006374,34911,Prague-West District
+1006375,24940,Thüringen
+1006379,197944,Ljubljana
+1006382,62336,Stuttgart
+1006386,16276,Greater London
+1006393,9617,Hyogo
+62645,1888,Amsterdam
+62647,55821,Metro Manila
+62651,12353,Mealhada
+62657,21804,Saskatchewan
+62661,17138,Travis County
+62669,62412,Murcia
+62670,15598,Oberbayern
+62691,199284,Thüringen
+62692,2856,Buckinghamshire
+62696,21928,Dunn County
+62699,24722,Gorno-Badakhshan Autonomous Province
+62704,41176,Dammam Principality
+62706,7018,Lowndes County
+62708,2856,Argyll and Bute Council
+62716,7418,Curicó
+62719,41998,Tübingen
+62725,1104,Amsterdam
+62730,1759,Tampere
+62731,137074,Metro Manila
+62735,13030,Lausanne
+62736,269730,Maracaibo
+62740,211450,Komuna e Gjevgjelisë
+62741,14593,Boulder County
+62750,39647,Leiden
+62754,46375,San Mateo County
+62760,199490,Praha-východ
+62763,212926,Reykjavíkurborg
+62768,14291,Washington County
+62771,3243,Caldas da Rainha
+62811,4771,Otago
+62813,18419,信義鄉
+62828,7018,Seminole County
+62829,12430,Cantabria
+62830,18046,Zhongzheng District
+62840,3737,Columbia County
+62852,10019,Mie
+62856,1759,Turku
+62870,5607,Lancashire
+62877,39560,Amstetten
+62887,3215,Landes
+62888,327750,Lusaka
+62904,32365,Clackamas County
+62909,137404,Negros Occidental
+62911,14593,Charlotte Amalie
+62915,15557,Val-d'Oise
+62930,397068,Lexington County
+62932,1221,City of Hobart
+62933,1136,Uden
+62936,204106,Dushanbe
+62938,8708,Sibiu
+62983,12322,Sarthe
+62988,13857,Yamhill County
+63001,270200,Quintana Roo
+63009,33915,Capelle aan Den IJssel
+63010,6315,Davis County
+63015,12470,Münster
+63021,21928,Yuba County
+63047,12430,Bizkaia
+63051,57269,Alicante
+63061,45754,Rizal
+63070,6167,Harris County
+63071,25106,Minski rajon
+63079,6758,Alpes-Maritimes
+63085,766,Murcia
+1000021,24940,Kassel
+1000087,15557,Var
+1000170,208574,Moselle
+1000315,15657,Berlin
+1000707,16509,City of Cape Town Metropolitan Municipality
+1000778,7922,McHenry County
+1001363,31736,Friburg
+1001408,48390,Lausanne
+1001442,12307,Dielsdorf
+1001587,30041,San Diego County
+1001595,57169,Wien
+1002030,396190,King County
+1002040,205544,Greater London
+1002174,25412,Barcelona
+1002177,50544,Krasnoyarsk
+1002476,3301,Örebro län
+10154,199128,Municipality of Gevgelija
+1002586,197765,Moskva
+1002798,12488,Middlesex County
+1002802,16246,Olomouc
+1002821,20712,Derby
+1002844,3491,City of Johannesburg Metropolitan Municipality
+1002902,24651,Ida-Viru maakond
+1002921,208808,Provincia di Pavia
+1002934,209700,Baku
+1002963,61297,Kyiv City
+1002976,16276,Val-de-Marne
+1003054,30844,Makonde
+1003233,17676,Kanagawa
+1003371,16509,South Jakarta City
+1003377,16509,Greater London
+1003389,16509,Montréal
+1003397,29608,Eure-et-Loir
+1003486,20473,Cook County
+1003619,47583,Konkan Division
+1003645,16509,Incheon
+1003804,8402,Gorod Volgograd
+1004001,13182,Provincia di Rimini
+1004008,16347,Indre-et-Loire
+1004013,174,Indre-et-Loire
+1004023,61317,São Paulo
+1004058,43927,Municipiul București
+1004077,18978,Dallas County
+1004105,17,Tippecanoe County
+1004130,2637,Fulton County
+1004154,265819,San Isidro
+1004234,198668,Frýdek-Místek District
+1004275,132203,Santa Clara County
+1004291,132203,Seoul
+1004358,15425,Svitavy District
+1004369,8075,Mecklenburg County
+1004371,8075,Busan
+1004412,8075,City of Sydney
+1004511,9371,Osaka
+1004533,28573,Mogi Guaçu
+1004600,28725,Šumperk
+1004649,15435,Renkum
+1004675,27628,Saskatchewan
+1004682,9304,Hong Kong Island
+1004690,50825,Hlavní město Praha
+1004758,32613,Toronto
+1004820,211859,Kadıköy
+1004852,202870,Città metropolitana di Roma Capitale
+1004857,212172,Minski rajon
+1004912,3209,Mecklenburg-Vorpommern
+1004940,680,Detmold
+1004960,14061,Passaic County
+1004962,3257,Hertfordshire
+1004991,16509,Zaragoza
+1005328,41816,Gorod Vladikavkaz
+1005468,30600,Tippecanoe County
+1005527,23428,Los Angeles County
+1005559,6730,Jura-Nord vaudois
+1005624,41164,Oslo Municipality
+1005751,4764,Moreton Bay Region
+1005800,4713,Kitashitara District
+1005803,35617,Provincia di Novara
+1005820,202523,Provincia di Padova
+1005852,42598,Warszawa
+1005859,20555,Warszawa
+1005895,21221,Utrecht
+1005903,212635,Amsterdam
+1005946,57675,Baku
+1005948,50371,Baku
+1006068,20115,Boone County
+1006153,17559,City of Sydney
+1006157,206904,Moscow
+1006198,4181,Merrimack County
+1006229,2586,Tartu maakond
+6237,12859,Ede
+6249,2602,Esch-sur-Alzette
+6251,719,Tampere
+6291,39029,Oslo kommune
+6304,1764,Wien
+6360,39878,Salzburg
+6370,59105,Tokyo
+6373,32097,Jackson County
+6398,22894,Nuevo León
+6434,20473,King County
+6437,20473,Dallas County
+6479,202196,Loudoun County
+6482,7247,Alameda County
+6488,61468,Metropolitan District of Quito
+25322,15802,Dubai
+6495,199422,Rhône
+6511,34612,Harderwijk
+6513,62000,Hauts-de-Seine
+6520,198385,Lausanne
+6525,32,Santa Clara County
+6531,50629,Bremen
+6540,206484,Basel-Stadt
+6546,264605,Moca
+6561,20473,Darmstadt
+6575,45170,Kathmandu
+6579,680,Hamburg
+6581,197540,Mittelfranken
+6609,45014,Milton Keynes
+6621,60798,Città Metropolitana di Bari
+6635,39923,Vlaams-Brabant
+6636,199610,City of Sydney
+6657,20596,Greater London
+6660,202422,Bayside Council
+6675,201333,Provincia di Piacenza
+19822,553,Stuttgart
+6746,48503,Aktobe
+6747,48503,Atyrau
+6749,8728,Harju maakond
+6753,48503,Ust-Kamenogorsk
+6767,41364,Città Metropolitana di Torino
+6771,208800,Abu Dhabi
+6773,3491,New Territories
+6790,57695,São Paulo
+6803,138398,Auckland
+6809,24971,Brno-město
+6810,2852,Hlavní město Praha
+6812,56357,Oberbayern
+6832,208590,Alameda County
+6836,58057,Alameda County
+6847,62371,Genève
+6856,52130,Hlavní město Praha
+6869,213392,Saxony
+30069,2200,Finistère
+6880,35258,Hamburg
+6890,395152,Metro Vancouver
+6896,8866,Sofia City Province
+6901,41495,Genève
+6906,60924,دبي
+6944,12008,Fujairah
+6950,398447,Alameda County
+6959,34347,Innsbruck-Land
+6994,57187,Dubai
+7004,34936,Düsseldorf
+7032,3491,Metro Manila
+7046,61098,Klagenfurt
+7049,265641,Municipio Maturín
+7056,8038,Ljubljana
+7057,28186,Salvador
+7062,37153,City of Cape Town Metropolitan Municipality
+7068,204035,Düsseldorf
+7089,15699,Barcelona
+7094,28792,Greater Manchester
+7114,11815,Rosario
+7121,40138,Alameda County
+7127,8473,Skåne län
+7129,29134,Hlavní město Praha
+7168,201800,Moskva
+7131,13030,Winterthur
+7135,41887,Delft
+7151,8879,Detmold
+7172,3491,Seoul
+7174,48070,England
+7180,208398,Sankt-Peterburg
+7185,208398,Helsinki
+7188,59642,Amsterdam
+7192,44788,Haarlemmermeer
+7196,24840,Darmstadt
+7200,60841,Greater London
+7222,37468,City of Ekurhuleni Metropolitan Municipality
+7238,23428,Clay County
+7239,37468,Luanda
+7254,142594,West Midlands
+7265,200187,Darmstadt
+7266,210645,Amsterdam
+7279,200297,Sachsen
+7282,15826,Haute-Garonne
+7284,45701,Kota Jakarta Selatan
+7287,51430,Dronten
+7289,8637,Madrid
+7291,132808,Brisbane City
+7293,211997,Bouches-du-Rhône
+7296,48707,Powiat Warszawa
+7298,64112,Querétaro
+7300,199087,Kaustinen
+7302,61349,Alphen aan Den Rijn
+7303,396163,King County
+7305,49798,Banská Bystrica District
+7314,5404,Salzburg
+7316,61138,Auckland
+7317,21859,Darmstadt
+7319,205687,Salzburg
+7338,7195,Lima
+7320,56987,Rhône
+7323,4826,Council of the City of Sydney
+7325,1221,City of Monash
+7329,49282,Pori
+7331,64289,Greater London
+7332,400442,Winnipeg
+7334,394177,Cook County
+7336,7195,Comuna 1
+7340,394177,Fulton County
+7341,32270,Miami-Dade County
+7344,6730,Aigle
+7348,19750,Loudoun County
+7350,212027,West Midlands
+7354,204989,Niedersachsen
+7355,8193,Tashkent
+7356,7480,信義鄉
+7359,201115,Buckinghamshire
+7361,52210,Clay County
+7362,328964,City of Ekurhuleni Metropolitan Municipality
+10006,199468,Cambridgeshire
+10067,15798,Powiat Olsztyn
+10089,2856,Kent
+10210,52063,Greater London
+11451,8251,Hlavní město Praha
+10397,20055,Snohomish County
+31342,13037,Gloucestershire
+10497,12400,Rehovot
+10556,209,Los Angeles County
+10636,3209,Darmstadt
+10740,215733,County Dublin
+10750,8708,Voluntari
+11639,5432,Antwerpen
+10869,31200,Gorod Novosibirsk
+11006,31204,Chișinău
+11016,56030,Wellington
+11088,44604,Gorod Voronezh
+11092,25515,Gorod Dubna
+11095,51515,Gorod Snezhinsk
+11108,3303,Olten
+11155,51815,Stockholms län
+11176,8422,Köln
+11194,8881,Karlsruhe
+11212,13009,Stoke-on-Trent
+11241,1205,Linz
+11296,21263,Tübingen
+53244,3209,Niedersachsen
+11422,12990,Powiat Kraków
+11429,25513,Moskva
+11463,553,Karlsruhe
+11598,49835,Barcelona
+11729,6805,Seine-et-Marne
+11813,8468,Nottinghamshire
+11849,33915,Utrecht
+11863,62336,Niedersachsen
+11939,6848,Antwerpen
+11997,2856,Cornwall
+12023,2856,Greater London
+12038,8881,Rheinland-Pfalz
+12049,20712,England
+12063,202246,Kemi-Tornio
+12116,5650,Los Angeles County
+12125,9211,Hamburg
+12154,20001,San Diego County
+12220,205005,Provincia di Pescara
+12264,8881,Berlin
+18462,8412,Wien
+12344,30983,Rabat
+12466,329276,City of Cape Town Metropolitan Municipality
+12598,35320,Kyiv City
+12718,35320,Dnipropetrovs'ka oblast
+12722,1853,Innsbruck
+12732,5089,England
+13188,13030,Genève
+1007873,59103,Tokyo
+12887,12389,Saratov
+12927,27651,Santiago
+13050,13037,Vale of Glamorgan
+13066,6661,Esch-sur-Alzette
+13190,203520,Darmstadt
+13200,29208,Hlavní město Praha
+13248,8890,Powiat Warszawa
+13316,50266,Amersfoort
+13334,22742,Hartford County
+13337,57269,Asturias
+13396,6128,Middlesex County
+13489,29695,Sandnes
+13494,31246,Brno-město
+13633,12338,Tarragona
+13677,20676,Detmold
+13685,7122,Winnipeg
+13738,34779,Izola
+13774,29605,Seine-Saint-Denis
+1000463,13030,Brig
+13955,211417,Karlsruhe
+14015,12389,Gorod Novosibirsk
+14111,3209,Düsseldorf
+14133,5089,Hertfordshire
+14292,30848,Città Metropolitana di Milano
+14332,3209,Berlin
+14341,30764,Ostrava-město
+14366,35125,Gorod Smolensk
+14368,197133,Seine-Saint-Denis
+14440,13037,Greater Manchester
+14544,13037,Surrey
+14873,50231,Katowice
+14889,2515,Tokyo
+15025,3209,Stuttgart
+15099,1136,Veenendaal
+15141,51873,Luzern-Stadt
+15171,8473,Stockholms län
+15229,50448,Moskva
+15439,6798,Villach
+15523,42387,Gorod Petrozavodsk
+15609,812,Ottawa
+15616,2518,Tokyo
+15668,50316,Provincia di Padova
+20843,39544,Jura-Nord vaudois
+15736,9145,Niedersachsen
+15845,13037,"Bournemouth, Christchurch and Poole"
+15890,35266,Berkshire
+15974,45671,Central Coast Council
+16122,201240,Wien
+54331,5378,Greater London
+16213,9070,Sofia City Province
+16228,35489,Sofia City Province
+23216,3209,Thüringen
+16312,2856,Glasgow City
+16340,3245,Varna
+16430,327750,Frances Baard District Municipality
+16438,36937,City of Johannesburg Metropolitan Municipality
+33175,37199,City of Cape Town Metropolitan Municipality
+16491,328114,City of Johannesburg Metropolitan Municipality
+16546,8365,Darmstadt
+16639,199354,Zayy Sub-District
+16736,5617,Warszawa
+16769,29695,Lillestrøm
+16931,20956,Varna
+16951,5650,Orange County
+1006508,33915,Zeist
+17229,6830,Powiat Warszawa
+17246,13030,Zürich
+17372,34781,Lausanne
+17856,378,Rehovot
+17858,24961,Düsseldorf
+18422,13178,Gorod Voronezh
+18572,15557,Yvelines
+18601,34749,Département de Paris
+18722,577,Toronto
+18819,28878,Eindhoven
+18823,3303,Uster
+19010,3269,Città Metropolitana di Bologna
+19099,10010,Chiba
+19234,13036,Tábor
+19242,206177,Opava
+19338,39704,Groningen
+19368,196735,Kolín
+19371,8758,Arbon
+19394,30764,Opava
+28369,29695,Oslo kommune
+19533,20712,Greater London
+19555,16591,Wake County
+19569,31727,Derby
+19631,47645,Gorod Lobnya
+19679,1136,Bergen op Zoom
+19709,8151,Veracruz
+19967,49254,Tbilisi
+19974,64095,Auckland
+20171,12570,Okres Znojmo
+20262,15397,Podgorica Municipality
+20321,9198,Kostanay
+1005558,6730,Bern-Mittelland District
+20461,20545,Tbilisi
+20553,200114,Kolín
+20650,12333,Genève
+20706,60187,Greater London
+20715,197729,Darmstadt
+20753,19653,Kalamazoo County
+20833,7992,Regional Municipality of Halton
+20916,3209,Münster
+54670,8764,Kauno apskritis
+21228,3303,Zürich
+21274,3269,Provincia autonoma di Trento
+21349,62365,Sachsen
+21364,211752,Berlin
+21515,13292,Bruck-Mürzzuschlag District
+21658,8821,Zug
+21662,12389,Gorod Kazan'
+21727,25220,Düsseldorf
+22096,2200,Vienne
+22258,40980,Wien
+22339,198930,Schleswig-Holstein
+22378,680,Münster
+31941,8767,Schwaben
+22464,6855,Senec
+50354,31042,Grad Beograd
+22573,42908,Hlavní město Praha
+22677,64073,Wellington
+22859,8399,Berlin
+22979,201806,Città Metropolitana di Milano
+23052,5089,Edinburgh
+23082,200161,Moskva
+1007366,57656,Pontevedra
+23286,16246,Strakonice
+24057,35540,Nord
+24096,50266,Noordwijk
+24155,12874,Provincia di Rimini
+24174,3209,Detmold
+24193,8881,Stuttgart
+24244,15754,Gorod Kurgan
+24301,208189,Buckinghamshire
+24310,2907,Tokyo
+24330,8612,Provincia di Reggio Emilia
+24397,20926,Loire-Atlantique
+24400,8426,Département de Paris
+24414,200846,Münster
+24449,12508,Bratislava II
+24468,201603,Trnava
+24490,43848,Melk
+24505,210103,Luxembourg
+24535,60049,Provincia di Modena
+24559,28831,Provincia di Brescia
+24580,3303,Emmental District
+24635,13037,Lancashire
+24817,29518,Skåne län
+24889,6871,Greater London
+24907,3209,Arnsberg
+24970,9135,Düsseldorf
+24971,209,Jefferson County
+25318,198781,Greater London
+25462,196638,Donets'ka oblast
+25598,1930,Lisboa
+25759,2497,Kanagawa
+25763,51265,Innsbruck-Land
+26055,49544,Zaanstad
+26133,56933,Hlohovec District
+26143,11351,Jefferson County
+30218,5378,England
+26289,12985,Powiat wieluński
+26758,29933,Salt Lake County
+26804,55391,Tokyo
+26831,12912,Powiat goleniowski
+26889,12874,Provincia di Pesaro e Urbino
+27252,15751,County Galway
+27289,5410,Hauts-de-Seine
+27300,50071,Gorod Severodvinsk
+27323,6830,Kraków
+27362,46375,Alameda County
+27383,8402,Moskva
+27437,49893,Sergiyevo-Posadsky District
+28025,2856,Merseyside
+28040,8447,Braunau
+1001187,8437,Wien
+28143,6855,Bratislava V
+28280,8881,Darmstadt
+28321,10796,Butler County
+28364,12576,West Yorkshire
+28420,174,Dietikon
+28454,8473,Södermanlands län
+28505,42252,Helsinki
+28508,50266,Apeldoorn
+28512,33915,'s-Hertogenbosch
+28592,17385,Pinal County
+28631,33915,Ede
+28664,12683,Gorod Mineral'nyye Vody
+28672,60294,Oberbayern
+28702,15955,Triesen
+28728,57353,Niedersachsen
+28779,207036,Los Alcarrizos
+28797,8262,Sofia City Province
+28895,3209,Oberbayern
+28913,198967,Detmold
+28925,35063,Powiat wejherowski
+29215,3209,Freiburg
+29219,3209,Köln
+29278,60294,Münster
+29287,209,Kitsap County
+29379,812,Waterloo Regional Municipality
+54082,3209,Karlsruhe
+29583,8632,Capellen
+29645,206313,Niedersachsen
+29662,8708,Comuna Costinești
+29682,3209,Saarland
+29751,31317,Niederbayern
+61029,56478,Greater London
+29864,33915,Voorschoten
+29960,21774,Winnipeg
+29979,8881,Schleswig-Holstein
+30013,6893,Lausanne
+1006346,29222,Geneva
+30129,15796,Solothurn
+30219,9790,Waikato
+30427,29695,Harstad
+30434,30766,Darmstadt
+30673,8859,Oberfranken
+30747,15685,Hlavní město Praha
+30759,3209,Schwaben
+30948,48155,Ruse
+31094,3303,Bülach District
+31096,3212,Grosuplje
+31213,15934,Moskva
+31271,207375,Enschede
+31390,7922,Middlesex County
+31403,27790,Capital
+31500,57370,Lausanne
+31519,13977,Washington County
+31558,15796,Zürich
+31559,7029,Licking County
+31581,28812,Sterlitamaksky District
+31594,15600,Thierstein
+31689,2018,Nelson Mandela Bay Metropolitan Municipality
+31702,199101,Přerov
+31958,6730,Bern-Mittelland
+32150,21232,Uster
+32256,25428,Flemish Brabant
+32332,2527,Osaka
+32505,8400,Grad Beograd
+32616,209,Clark County
+32655,5378,Hampshire
+32693,8881,Kassel
+32712,208854,Karlsruhe
+32735,51426,Powiat Wrocław
+33012,25180,Leicestershire
+33022,10010,Tokyo
+52590,11525,Hancock County
+33132,263703,Sucre
+33139,6510,Utah County
+33212,21274,Minski rajon
+33280,42306,Pardubice
+33282,2593,Provincia di Padova
+33288,51728,Jyväskylä
+33309,203877,Južnobanatski okrug
+33333,50877,Provincia di Brescia
+33374,205046,Karlsruhe
+33418,104,Boulder County
+33507,15743,Niedersachsen
+33626,577,Greater Sudbury
+33668,6871,Lancashire
+33681,35567,Republika Srpska
+33692,51918,England
+1001973,9824,Tokyo
+33737,31017,Municipiul Constanța
+33771,61399,Bishkek City
+33775,208320,Zestaponi Municipality
+33780,48453,Oraş Curtici
+33783,13092,Severnobački okrug
+33883,6730,Imboden
+33884,43205,Pazardzhik
+33890,680,Köln
+33893,44735,Reykjavíkurborg
+33977,12322,Haute-Garonne
+33983,31259,Sachsen
+34158,44923,Санкт-Петербург
+34196,28890,Asbestovsky City District
+34380,7679,Fukuoka
+34411,39668,Municipiul Constanța
+34444,16117,Gävleborgs län
+34506,20912,Province of Latina
+34513,2516,Saitama
+34708,9121,Nevşehir Merkez
+34775,49225,Berlin
+34912,13037,Somerset
+34946,21928,Fulton County
+35444,12637,Città metropolitana di Milano
+35529,43541,Hlavní město Praha
+35564,206347,Dorset
+35641,855,Newfoundland and Labrador
+35798,25129,Județul Tighina
+50020,8331,Moskva
+50080,5650,Polk County
+50170,9824,Saitama
+50190,2856,Norfolk
+50192,37611,eThekwini Metropolitan Municipality
+55479,2514,Tokyo
+50259,701,Middlesex County
+50269,13030,Weinfelden
+50272,57269,Sevilla
+50285,3269,Città metropolitana di Roma Capitale
+50306,6939,Alameda County
+50356,31922,Monroe County
+50393,812,Hamilton
+50415,10054,Jeollanam-do
+50539,57050,Bucharest
+50579,8445,Oberbayern
+50631,3243,Lisboa
+50818,35492,Wien
+50847,216145,Sofia City Province
+50879,12897,Darmstadt
+50914,26046,Cache County
+50934,38987,Powiat Rzeszów
+50973,39441,Unterfranken
+50989,12552,Östergötlands län
+1005212,200924,Freiburg
+51024,6855,Bratislava I
+51173,51929,Örebro län
+51221,4697,Tokyo
+51254,6735,Stuttgart
+51380,26599,Recife
+51400,6327,Winnipeg
+51494,41682,Gorod Tyumen'
+51539,134090,Melbourne City
+51572,209659,Stockholms län
+51648,8449,Bishkek City
+51676,6400,Santiago
+51709,2856,Northumberland
+51715,8758,Bülach
+51809,16591,Travis County
+51855,50037,Gorod Kursk
+51886,60213,Gävleborgs län
+52140,10796,Franklin County
+52495,8866,Varna
+53009,35007,Powiat mikołowski
+52535,50266,Dordrecht
+52548,8445,Salzburg-Umgebung
+52595,8447,Eisenstadt-Umgebung
+1007647,3212,Ljubljana
+52711,21283,Trebnje
+52722,15435,Sliedrecht
+52744,3243,Portimão
+52935,5413,West Midlands
+52945,13030,Horgen
+52954,200914,Kanton Sarajevo
+52974,8708,Tamaseu
+53007,50266,Schiedam
+53012,13124,Shumen Province
+53040,60294,Rheinland-Pfalz
+53061,2110,County Dublin
+53106,4181,Dane County
+53200,51661,Praha-východ
+53300,8758,Zürich
+53329,680,Düsseldorf
+53353,13150,Swabia
+53383,5394,Città metropolitana di Roma Capitale
+53408,8412,Bregenz
+53620,29518,Hallands län
+53696,25415,Schleswig-Holstein
+53705,50266,Emmen
+53754,2200,Hauts-de-Seine
+53771,60294,Düsseldorf
+53794,46375,San Francisco County
+53825,12389,Kurganinsky District
+53864,577,Lanark County
+53879,5410,Bas-Rhin
+53882,39603,Powiat Słupsk
+53889,9136,Kassel
+53937,12389,Gorod Irkutsk
+53975,12668,Yekaterinburg
+53980,42610,Moskva
+53989,25255,Linz
+54187,8821,Küssnacht (SZ)
+54189,35492,Mödling District
+54449,201825,Moskva
+54461,56478,Glasgow City
+54513,29695,Vestfold
+54570,12389,Kaliningrad
+54587,50251,Kara-Suu District
+54664,210278,Città Metropolitana di Milano
+54751,5410,Loire-Atlantique
+54826,13037,Devon
+54888,210303,Hamburg
+55005,25255,Landeck
+55035,29695,Stavanger
+55068,8708,Municipiu Câmpulung
+55161,21928,Hennepin County
+55166,12389,Gorod Kurgan
+55255,56329,Gloucestershire
+55279,8468,Northern Ireland
+55284,12389,Omsk
+55449,61135,Adapazarı
+55487,31775,Monroe County
+55521,2027,Morbihan
+55607,20895,Gorod Krasnodar
+55647,51569,Città metropolitana di Milano
+55662,10796,Medina County
+55723,12389,Novosibirsky District
+55729,53488,Henderson County
+55760,199995,Kyiv City
+55781,20115,St. Louis County
+60053,50673,Apeldoorn
+60162,33363,Orange County
+60306,17960,Nakagami District
+60336,42303,Stockholms län
+60386,19429,Bogotá
+60468,8540,Gmünd
+60474,33363,Wayne County
+60531,15598,Mittelfranken
+60749,18420,Zhongli District
+60752,16302,Helsinki
+61012,8708,Municipiul București
+61014,4922,James City County
+61027,8422,Düsseldorf
+61047,8978,Città metropolitana di Roma Capitale
+61103,15943,Schleswig-Holstein
+61341,49056,Municipality of Gevgelija
+61488,12353,Coimbra
+61535,60590,Sofia City Province
+61590,39837,Graz
+61614,8412,Klagenfurt am Wörthersee
+61619,39081,Municipiu Târgovişte
+61674,57815,Municipiu Piteşti
+61709,13030,Bezirk Winterthur
+62023,54578,Union County
+62041,47394,Tiranë
+62062,13046,Grad Rijeka
+62066,211547,Kassel
+62089,60294,Köln
+62288,196954,Münster
+62424,8447,Graz
+62446,15796,Hochdorf
+62482,15796,Lausanne
+62488,6730,Lugano
+62552,44407,Seine-Maritime
+62587,786,Lincolnshire
+62624,7660,Tokyo
+62701,2110,County Kildare
+62756,200410,Przemyśl
+62948,8670,Herzegovina-Neretva Canton
+64063,31252,Chișinău
+64417,31252,Ungheni District
+64602,42560,Kanton Sarajevo
+64850,15994,Grad Pula
+65381,9916,East District
+65546,25454,Chișinău
+65827,41720,Provincia di Modena
+1002423,24940,Sachsen
+1000023,12735,Keçiören
+1000030,197540,Darmstadt
+1000068,44489,Uherské Hradiště
+1000069,43708,Okres Brno-venkov
+1000095,63473,Amsterdam
+1000109,63473,Los Angeles County
+1000241,42730,Darmstadt
+1000262,3170,West Midlands
+1000504,35518,Andelfingen
+1000512,201290,Koggenland
+1000630,51295,Municipiul București
+1000661,51167,Mittelfranken
+1000675,24961,Niedersachsen
+1000691,51167,Lower Franconia
+1000785,20001,Riverside County
+1000811,62099,Hlavní město Praha
+1000845,31898,Toronto
+1000951,47237,Bishkek City
+1000988,36290,Saint George Basseterre Parish
+1001040,20055,Washington County
+1001200,924,Toronto
+1001218,24940,Oberpfalz
+1001389,8038,Sedgwick County
+1001414,205597,Darmstadt
+1001422,28000,Montevideo Department
+1001545,1836,Zürich
+1001559,15600,Oberaargau
+1001563,16019,Litoměřice
+1001760,51184,Baden
+1001786,47583,Buncombe County
+1001864,24961,Kassel
+1002007,47583,Bartholomew County
+1002008,5078,Oklahoma County
+1002072,197540,Saxony
+1002083,63473,Cook County
+1002196,47583,Greenville County
+1002216,47692,Wien
+1002269,31898,Tokyo
+1002271,31898,São Paulo
+1002281,31263,Provincia di Mantova
+1002436,57269,La Rioja
+1002473,34683,Esch-sur-Alzette
+1002570,24940,Saxony
+1002576,51809,Lancashire
+1002689,197695,Moskva
+1002710,60294,Niedersachsen
+1002752,8758,Bezirk Winterthur
+1002765,1101,Amsterdam
+1002782,208189,West Sussex
+1002784,21351,Canton de Sainte-Marie
+1002851,13030,Hinterland
+1002856,5378,Kent
+1002874,1759,Etelä-Pirkanmaa
+1002906,202613,Città metropolitana di Roma Capitale
+1003038,48440,Varna
+1003047,210278,Provincia di Lecco
+1003087,206813,Hamburg
+1003100,206813,Darmstadt
+1003148,135478,Bogor Regency
+1003206,18592,Ciudad de México
+1003247,28851,Havlíčkův Brod District
+1003312,13037,Oxfordshire
+1003339,5610,Příbram
+1003358,41798,Kurchatov
+1003459,396982,Deschutes County
+1003547,203596,Ille-et-Vilaine
+1003841,15600,Seeland District
+1003605,2527,Kanagawa
+1003658,35612,Provincia di Bergamo
+1003787,11556,Provincia de Darién
+1003799,50673,Dronten
+1003801,49098,Yelizovsky District
+1003811,209,Douglas County
+1003848,15525,Sintra
+1003917,48558,Sankt-Peterburg
+1003967,4685,Niigata
+1005038,204165,Hlavní město Praha
+1004018,44901,Sofia City Province
+1004033,28753,Kassel
+1004059,56430,Municipiul București
+1004080,44477,Bratislava IV
+1004082,16276,Bas-Rhin
+1004102,12353,Maia
+1004211,396982,Konkan Division
+1004235,34927,Zürich
+1004355,44489,Okres Brno-venkov
+1004403,2527,Naka District
+1004426,8075,Campinas
+1004479,20694,Hamburg
+1004496,53610,De Witt County
+1004518,51167,Düsseldorf
+1004521,2514,Kanzaki District
+1004523,24940,Madrid
+1004633,11340,Antofagasta
+1004663,202613,Città Metropolitana di Milano
+1004671,201290,Bodegraven-Reeuwijk
+1004746,25431,Grad Beograd
+1004750,8764,Kauno miesto savivaldybė
+1004773,24940,Berlin
+1004840,13036,Teplice
+1004871,12338,Bizkaia
+1004905,39912,Klagenfurt am Wörthersee
+1004911,61098,Wien
+1004944,200639,Hertfordshire
+1004946,8447,Perg
+1004950,2852,Prostějov
+1005028,31898,Buckinghamshire
+1005032,206170,Dalarnas län
+1005060,13030,Basel-Stadt
+1005092,5466,County Kilkenny
+1005110,3303,Broye-Vully District
+1005171,197307,Opava
+1005324,212508,Darmstadt
+1005344,43989,Città Metropolitana di Milano
+1005400,4766,Jeollanam-do
+1005466,35661,Paris
+1005613,29632,Kyiv City
+1005636,9121,Kartepe
+1005645,41676,Powiat Warszawa
+1005906,51786,Bülach
+1005910,202613,Provincia di Pordenone
+1005931,33764,City of Cape Town Metropolitan Municipality
+1006165,53667,Mersch
+1006243,13037,Dundee City Council
+1006252,31184,Arnsberg
+1006303,8447,Tulln
+1006320,51087,Darmstadt
+1006322,150008,Telangana
+1006398,35598,Moskva
+1006413,8449,Ak-Talaa District
+1006444,16276,Warszawa
+1006445,396982,Pottawattamie County
+1006456,202613,Provincia di Monza e della Brianza
+1006507,57269,Valencia
+1006530,53667,Luxembourg
+1006582,202613,Provincia di Alessandria
+1006699,12735,Kemalpaşa
+1006712,25538,Schwaben
+1006770,212865,Uster
+1006794,577,Waterloo Regional Municipality
+1006802,202613,Provincia di Asti
+1006823,39150,Greater London
+1006853,8820,Berlin
+1006855,13030,District de la Riviera-Pays-d'Enhaut
+1006862,202293,Karaganda
+1006867,3243,Góis
+1006886,8758,Andelfingen
+1006903,30722,Provincia di Pisa
+1006908,200846,Düsseldorf
+1006913,2107,Trebnje
+1006945,8339,Neusiedl am See
+1006973,59741,Zug
+1006980,200185,Darmstadt
+1007154,12874,Città Metropolitana di Bari
+1007161,43989,Città metropolitana di Milano
+1007162,60975,Città metropolitana di Milano
+1007167,212602,Città Metropolitana di Milano
+1007170,24940,Karlsruhe
+1007181,13977,Sullivan County
+1007182,3250,Basel-Stadt
+1007184,5089,Surrey
+1007193,8560,Kassel
+1007200,5610,Litoměřice
+1007269,199811,Martigny
+1007285,12488,Greater London
+1007302,62269,Kassel
+1007305,198102,Provincia di Pesaro e Urbino
+1007318,5520,Köln
+1007339,37497,City of Johannesburg Metropolitan Municipality
+1007348,43667,Gorod Korolev
+1007359,5378,Berkshire
+1007376,5089,Southampton
+1007382,202870,Provincia di Varese
+1007391,61102,Jerusalem District
+1007395,10796,Lucas County
+1007399,56478,West Midlands
+1007410,35819,Al Ahsa
+1007436,50266,Dronten
+1007439,202613,Provincia di Lecce
+1007445,208808,Città metropolitana di Roma Capitale
+1007471,35661,Val-de-Marne
+1007488,56329,Central Bedfordshire
+1007499,49770,Stockholms län
+1007528,16276,Gironde
+1007544,5416,Al-Muḥāfaẓat al-Janūbīyah
+1007547,25160,Greater London
+1007548,396982,Berkeley County
+1007561,134090,Bayside Council
+1007563,16019,Ostrava-město
+1007566,211462,Municipiu Oradea
+1007574,6855,Pezinok
+1007580,202870,Provincia di Pavia
+1007589,43708,Hlavní město Praha
+1007643,61272,Vilniaus apskritis
+1007670,6772,Rheinfelden
+1007685,24806,Hlavní město Praha
+1007688,207013,Provincia di Salerno
+1007695,28573,Uberlândia
+1007710,207451,Hlavní město Praha
+1007711,49169,Comuna Ghiroda
+1007718,215680,Haarlem
+1007728,137409,Westland
+1007743,48314,Darmstadt
+1007746,197133,Département de Paris
+1007758,396982,Bruxelles
+1007775,16128,Yvelines
+1007805,8447,Krems an der Donau
+1007833,212068,Berlin
+1007837,327926,City of Cape Town Metropolitan Municipality
+1007843,57370,Dietikon
+1007894,49586,Oslo
+1007898,15435,Kampen
+1007903,61134,Powiat Rybnik
+1007911,215250,Düsseldorf
+1007917,207192,Bishkek City
+1007924,56655,Sandefjord
+1007937,33915,Duiven
+1007941,263210,Bogotá
+1007968,43205,Haskovo
+1007971,12414,Deventer
+1007976,8820,Karlsruhe
+1008006,201290,Maashorst
+1008008,2152,Humboldt County
+1008015,35805,Tbilisi
+1008017,199298,Frýdek-Místek
+1008041,203592,Darmstadt
+1008063,3269,Città metropolitana di Catania
+1008074,24940,Rheinland-Pfalz
+1008099,8412,Mistelbach
+1008122,57707,Hlavní město Praha
+1008124,137409,Helsinki
+1008125,136510,Sofia City Province
+1008165,3214,Düsseldorf
+1008166,680,Bremen
+1008173,202422,Municipiul București
+1008174,44477,Grad Beograd
+1008176,44477,Stockholms län
+1008179,202422,Kyiv City
+1008180,62217,Kent
+1008182,53363,Toronto
+1008187,30058,Cook County
+1008196,30633,Virginia
+1008200,15085,Buncombe County
+1008201,197197,Nový Jičín
+1008214,8220,Köln
+1008226,30764,Okres Ústí nad Orlicí
+1008240,8412,Graz
+1008262,12334,Cantabria
+1008496,53667,Miami-Dade County
+1008308,5089,Tyne and Wear
+1008331,43989,Provincia di Rimini
+1008370,39442,Gorod Volgograd
+1008382,396982,Klickitat County
+1008424,206825,Karlsruhe
+1008430,14061,Aalsmeer
+1008431,35487,Berlin
+1008442,5607,South Yorkshire
+1008444,5378,Lancashire
+1008458,50266,Haarlem
+1008461,13030,Wasseramt
+1008473,202401,Oberbayern
+1008495,8447,Mödling
+6455,20473,Tokyo
+6544,39392,Hlavní město Praha
+6582,48715,Tehran
+6604,15954,Madrid
+6763,5602,Città Metropolitana di Milano
+6937,2611,Brabant Wallon
+7075,3320,Berlin
+10001,206238,Amsterdam
+10005,1136,Amsterdam
+10120,13285,Greater London
+10249,8359,Gorod Tyumen'
+10317,7018,Tarrant County
+10323,701,Montgomery County
+10336,7922,Harris County
+10386,7922,Atlantic County
+10540,7922,Cook County
+10542,7018,Cook County
+10701,5645,Toronto
+10748,1257,Stockholms län
+10751,7922,Montgomery County
+10938,2119,Bærum
+10988,28685,Bunschoten
+11275,41164,Vestnes
+11405,5089,Berkshire
+11710,5432,Hainaut
+11733,12322,Ain
+11758,16086,Helsinki
+11801,15038,Middlesex County
+11811,3255,Kyiv City
+12066,41275,Moskva
+12360,12322,Hauts-de-Seine
+12372,4764,Meander Valley Council
+12428,38195,Brisbane City
+12579,7922,Santa Clara County
+12597,202619,Luhans'ka oblast
+12605,15626,Kharkivs'ka oblast
+12611,7922,King County
+12666,31148,Kyiv City
+12829,12322,Moselle
+12983,12353,Lisboa
+13039,3215,Alpes-Maritimes
+13055,51225,Yerevan
+13205,7018,Contra Costa County
+13218,36914,Nairobi County
+13249,7922,Fairfax County
+13312,58224,Tehran
+13442,15557,Oise
+13771,12556,Nairobi County
+13838,701,Bergen County
+13881,3352,Madrid
+13961,131627,Da’an District
+14043,12322,Val-de-Marne
+14130,2119,Oslo kommune
+14337,7922,Essex County
+14630,12322,Finistère
+14731,7922,Alameda County
+14746,2119,Stockholms län
+15039,7922,Loudoun County
+15835,6805,Hamburg
+15973,12322,Département de Paris
+16075,3215,Haute-Garonne
+16100,2860,Sintra
+16235,21183,Tirana
+16339,35141,Sofia City Province
+16827,42306,Havlíčkův Brod
+16869,14593,Ille-et-Vilaine
+16929,3215,Hérault
+16984,206238,Zaanstad
+17030,12322,Bouches-du-Rhône
+17056,12322,Gard
+17058,3215,Bas-Rhin
+17262,3215,Calvados
+17634,18530,Monroe County
+17846,378,Tel Aviv District
+18165,31042,Južnobački okrug
+18312,3301,Stockholms län
+18371,12252,Lima
+18418,206238,Veenendaal
+18544,6752,Andorra la Vella
+18593,9070,Plovdiv
+19139,7018,DeKalb County
+19341,60294,Darmstadt
+19397,31122,County Kildare
+19420,7018,Wake County
+19702,1764,Salzburg
+19848,3269,Provincia di Ferrara
+19917,17551,City of Boroondara
+20049,3320,Düsseldorf
+20088,3215,Rhône
+20521,12322,Val-d'Oise
+21503,41164,Trondheim
+21513,6730,Genève
+21534,5410,Rhône
+21802,54858,King County
+22034,3215,Indre-et-Loire
+22303,55850,Bay of Plenty
+22570,8473,Västra Götalands län
+22720,701,Chester County
+23210,3215,Val-d'Oise
+23254,12322,Nord
+23392,29413,Oberbayern
+23714,22646,Lexington County
+24471,1136,Zwolle
+24596,3215,Doubs
+25195,4764,City of Blacktown
+25375,24560,Shimla Division
+25438,2860,Lisboa
+25792,3215,Eure-et-Loir
+26016,1136,Utrecht
+26072,3352,Málaga
+26231,20912,Provincia di Latina
+26928,719,Helsinki
+26958,719,Joensuu
+27197,8788,Kyiv City
+27588,42313,Tirana
+27593,12322,Ille-et-Vilaine
+27782,3257,Darmstadt
+28677,7922,Adams County
+28698,20686,Middle Franconia
+29548,2116,Oslo kommune
+29670,3215,Ille-et-Vilaine
+30041,5617,Poznań
+30522,7922,Multnomah County
+30711,12322,Creuse
+30883,24523,Kota Jakarta Selatan
+30896,5410,Ille-et-Vilaine
+30939,3301,Västra Götalands län
+31061,13306,Gabrovo
+31171,5432,Liège
+31333,4764,Adelaide City Council
+31409,13285,Staffordshire
+31503,3215,Haute-Savoie
+31515,20115,Putnam County
+31601,42652,Saarland
+32052,12322,Charente
+32249,1136,Enschede
+33466,15401,Isère
+33949,8473,Dalarnas län
+34772,50543,Saratov
+34994,15965,Luxembourg
+35461,197696,Bouches-du-Rhône
+35462,15895,Kyiv City
+35722,12963,Kyiv City
+35794,1547,Administrative-Territorial Units of the Left Bank of the Dniester
+50035,50469,Darmstadt
+50107,812,Newfoundland and Labrador
+50209,7018,Cuyahoga County
+50244,6327,Alberta
+50271,7713,Banyuwangi Regency
+50375,7922,Jefferson County
+50394,13037,Shropshire
+50401,4764,Town of Gawler
+50455,7922,Virginia
+50462,7713,Banjarmasin City
+50480,5650,Hillsborough County
+50728,39686,Zwolle
+50769,24904,Ain
+50897,139759,Pohnpei
+50913,9145,Lower Saxony
+50927,2119,Skåne County
+50996,4764,City of Melbourne
+51053,7018,Los Angeles County
+51375,397142,Larimer County
+51420,1136,Rotterdam
+51788,4764,Brisbane City
+52065,37708,Plaines Wilhems
+52121,4764,Yarra Ranges Shire
+52353,31272,Mykolaivs'ka oblast
+52390,132199,Cebu
+52443,37100,Nairobi County
+52454,4764,Maroondah City
+52589,25596,Almere
+52715,6805,Mecklenburg-Vorpommern
+52727,12392,Namur
+52841,5769,Laurentides
+52919,701,Norfolk County
+53091,6866,Nicosia
+53129,7922,Fulton County
+53235,1257,Västra Götalands län
+53362,15557,Rhône
+53469,812,Regional Municipality of Peel
+53512,12322,Doubs
+53522,59665,Naro-Fominsky District
+53555,5617,Kraków
+53657,1136,Oldambt
+53828,852,Capital
+53829,3326,Vinnyts'ka oblast
+53845,7922,Lake County
+53860,7018,Gwinnett County
+53888,42652,Rheinland-Pfalz
+54038,15557,Gironde
+54046,3215,Côte-d'Or
+54169,20712,Dorset
+54250,7018,Duval County
+54251,7018,St. Clair County
+54280,701,New Castle County
+54383,12389,Gorod Pyatigorsk
+54519,7018,Palm Beach County
+54716,4764,City of Darebin
+54744,7922,Hartford County
+54927,7018,St. Charles County
+55084,1136,Almere
+55160,46690,Fairfield County
+55174,20115,Montgomery County
+55505,12714,Moskva
+55798,393238,Linn County
+55811,20115,Dickinson County
+55835,6128,Fairfield County
+60146,137818,Aklan
+60207,12392,Brabant Wallon
+60313,6167,Alameda County
+60347,24560,Konkan Division
+60374,12479,Toledo
+60498,6848,Limburg
+60681,812,Dieppe
+60707,61461,Maracaibo
+60803,12322,Pyrénées-Orientales
+60828,7922,Jackson County
+60911,2856,Greater Manchester
+60967,23889,Rivière Noire District
+61129,8452,Al Obour
+61181,16342,Łódź
+61230,3352,Valencia
+61272,13037,Hampshire
+61316,13045,Lower Saxony
+61340,46050,Kota Yogyakarta
+61598,3215,Sarthe
+61684,61461,Machiques De Perijá
+61719,3352,Zaragoza
+61996,38195,City of Sydney
+62015,15557,Val-de-Marne
+62024,12741,Warszawa
+62034,7018,Alameda County
+62186,20712,Kent
+62236,1136,Ede
+62255,29119,Murcia
+62310,7922,Westmoreland County
+62443,27742,Managua
+62564,14754,Distrito Central
+62939,3352,Murcia
+62960,15435,Schiedam
+62997,24560,Meerut Division
+64056,5384,Dubai
+64467,34244,Skåne län
+65190,3243,Seixal
+65280,5617,Powiat tomaszowski
+65352,64073,Auckland
+65687,17501,Kathmandu
+65964,10796,Lorain County
+1000004,3130,King County
+1000158,28854,Jönköpings län
+1000198,47727,Ostrava-město
+1000601,12322,Seine-Maritime
+1000897,12322,Bas-Rhin
+1000948,8881,Köln
+1001124,34927,Darmstadt
+1001390,137153,Belgaum Division
+1001398,28109,Bahía Blanca
+1001891,29182,Khimki
+1001922,2860,Odivelas
+1002501,8402,Moscow
+1002545,47377,Limburg
+1002817,132420,Delhi Division
+1003091,21473,Rheinland-Pfalz
+1003319,13030,Sense
+1003379,16509,Konkan Division
+1003428,3549,Fulton County
+1003635,17552,Krung Thep Maha Nakhon
+1003730,63781,Tokyo
+1003907,11814,Ottawa
+1003991,31898,Osaka
+1004087,12322,Côtes-d'Armor
+1004108,7922,Bristol County
+1004212,20057,Loudoun County
+1004260,35540,Val-de-Marne
+1004510,21599,Panama
+1004594,4685,Chiba
+1004602,202618,Hlavní město Praha
+1004894,6805,Brandenburg
+1004956,12768,gorod Perm'
+1005208,15557,Calvados
+1005263,45102,Hong Kong Island
+1005519,12322,Pas-de-Calais
+1005600,3269,Provincia di Modena
+1005932,8560,Neshoba County
+1006131,63949,Stockholms län
+1006208,14522,Distrito Metropolitano de Quito
+1006332,2856,Essex
+1006492,1136,Apeldoorn
+1006562,6167,Kane County
+1006592,12389,gorod Perm'
+1006744,30781,Alpes-Maritimes
+1006767,6805,Karlsruhe
+1006909,8881,Niedersachsen
+1007172,3269,Province of Chieti
+1007289,202613,Città Metropolitana di Torino
+1007317,39857,Helsinki
+1007337,24560,Nashik Division
+1007469,25255,Vienna
+1007922,13127,Amsterdam
+1007943,18047,East District
+1007973,15557,Pas-de-Calais
+1008363,5089,Oxfordshire
+1008470,8632,Luxembourg
+1008474,10214,City of Stirling
+1008501,27831,Medellín
+1008574,852,Fraser Valley
+1008646,3269,Province of Verona
+1008647,328471,Cape Winelands District Municipality
